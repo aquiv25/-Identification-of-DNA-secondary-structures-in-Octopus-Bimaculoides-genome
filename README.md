@@ -8,3 +8,5 @@ Web server https://i5h2oo-angel0i0garza0reyna.shinyapps.io/zgenie_shinyapp/
 
 3)ZDNABert 
 https://colab.research.google.com/github/mitiau/Z-DNABERT/blob/main/ZDNA-prediction.ipynb#scrollTo=urrTMPfMUrbP
+
+4)Статья для референса https://pubmed.ncbi.nlm.nih.gov/37164635/

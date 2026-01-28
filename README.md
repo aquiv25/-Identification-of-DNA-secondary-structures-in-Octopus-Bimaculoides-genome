@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1g43295fTtvBPQOOslrhOVmlwCV22VNaX?usp=sh
 6)Геном 
 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001194135.2/
 
-7)Курсовя за 2 курс https://docs.google.com/document/d/1qur-wk3HfM7wECVXFkZZxlJ9pxzggCPzrnyUej9YoKg/edit?tab=t.0
+7)Курсовая за 2 курс https://docs.google.com/document/d/1qur-wk3HfM7wECVXFkZZxlJ9pxzggCPzrnyUej9YoKg/edit?tab=t.0
 
 8)Задачи 
 1 Полногеномная аннотация Z-DNABERT

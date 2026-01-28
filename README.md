@@ -10,3 +10,18 @@ Web server https://i5h2oo-angel0i0garza0reyna.shinyapps.io/zgenie_shinyapp/
 https://colab.research.google.com/github/mitiau/Z-DNABERT/blob/main/ZDNA-prediction.ipynb#scrollTo=urrTMPfMUrbP
 
 4)Статья для референса https://pubmed.ncbi.nlm.nih.gov/37164635/
+
+5)Блокнот 
+https://colab.research.google.com/drive/1g43295fTtvBPQOOslrhOVmlwCV22VNaX?usp=sharing#scrollTo=h53qe4CIUnOb
+
+6)Геном 
+https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001194135.2/
+
+7)Курсовя за 2 курс https://docs.google.com/document/d/1qur-wk3HfM7wECVXFkZZxlJ9pxzggCPzrnyUej9YoKg/edit?tab=t.0
+
+8)Задачи 
+1 Полногеномная аннотация Z-DNABERT
+2 Полногеномная аннотация Z-Hunt
+3 Посмотреть, отличается ли Z-Hunter от Z-hunt - и м б лучше взять Z-Hunter
+4. Построить Venn-diagram пересечений двух аннотаций
+5. Построить распределение каждой аннотации (2) по геномным регионом и показать на слайде вместе с просто распределением регионов (круги как в Z-flipons. paper)

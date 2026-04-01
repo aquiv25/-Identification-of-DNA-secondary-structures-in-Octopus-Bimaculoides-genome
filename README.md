@@ -35,5 +35,6 @@ Introns		165150683
 Intergenic		159383862		
 3UTR		5143		
 5UTR		42627		
-downstream		593683		
+downstream		593683
+
 <img width="368" height="293" alt="Снимок экрана 2026-04-01 в 16 40 45" src="https://github.com/user-attachments/assets/b61d47b6-db58-4e7e-99f5-7e7a732c7537" />

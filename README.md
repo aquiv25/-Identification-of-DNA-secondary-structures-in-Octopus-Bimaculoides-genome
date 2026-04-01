@@ -36,13 +36,4 @@ Intergenic		159383862
 3UTR		5143		
 5UTR		42627		
 downstream		593683		
-
-Тип региона       Всего          Уникальных                 Файл
-------------------------------------------
-✓ Promoters           27,030       23,224 intersection_promoters_dnabert.csv
-✓ Exons               12,923        4,044  ZDNA_exons_bert.csv
-✓ Introns          1,119,440      211,781     introns_bert.csv
-✓ 5' UTR               1,263          194 intersection_5utr_bert.csv
-✓ 3' UTR               1,162          171 intersection_3utr_bert.csv
-✓ Downstream          20,422       16,939 intersection_down_bert.csv
-✓ Intergenic       1,061,781      931,455  intergenic_bert.csv
+<img width="368" height="293" alt="Снимок экрана 2026-04-01 в 16 40 45" src="https://github.com/user-attachments/assets/b61d47b6-db58-4e7e-99f5-7e7a732c7537" />

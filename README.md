@@ -26,7 +26,7 @@ https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001194135.2/
 4. Построить Venn-diagram пересечений двух аннотаций
 5. Построить распределение каждой аннотации (2) по геномным регионом и показать на слайде вместе с просто распределением регионов (круги как в Z-flipons. paper)
 
- 
+ 9) Функциональная аннотация генов https://docs.google.com/document/d/1RH66yTrnudU0Q17u_Pgi9o2tfH4XuGi-gZp88X4iKFI/edit?usp=sharing
  
 Распределение Z-ДНК по геномным регионам 
 Promoters	2287424		
@@ -38,3 +38,5 @@ Intergenic		159383862
 downstream		593683
 
 <img width="368" height="293" alt="Снимок экрана 2026-04-01 в 16 40 45" src="https://github.com/user-attachments/assets/b61d47b6-db58-4e7e-99f5-7e7a732c7537" />
+
+

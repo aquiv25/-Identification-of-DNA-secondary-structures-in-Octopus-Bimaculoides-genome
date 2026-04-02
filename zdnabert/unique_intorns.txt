@@ -1,0 +1,1954 @@
+LOC106867202_intron probable cyclin-dependent serine/threonine-protein kinase DDB_G0292550
+LOC106867203_intron protein DPCD
+LOC106867204_intron ribosomal RNA small subunit methyltransferase NEP1
+LOC106867230_intron serine/threonine-protein kinase TBK1
+LOC106867385_intron ankyrin repeat domain-containing protein SOWAHB-like, transcript variant X1
+LOC106867385_intron ankyrin repeat domain-containing protein SOWAHB-like, transcript variant X2
+LOC106867431_intron DNA ligase 1
+LOC106867432_intron complement C1q tumor necrosis factor-related protein 7
+LOC106867433_intron N-sulphoglucosamine sulphohydrolase
+LOC106867434_intron uncharacterized LOC106867434, transcript variant X1
+LOC106867434_intron uncharacterized LOC106867434, transcript variant X2
+LOC106867530_intron kinesin heavy chain, transcript variant X1
+LOC106867530_intron kinesin heavy chain, transcript variant X2
+LOC106867577_intron natural resistance-associated macrophage protein 2, transcript variant X1
+LOC106867577_intron natural resistance-associated macrophage protein 2, transcript variant X2
+LOC106867577_intron natural resistance-associated macrophage protein 2, transcript variant X3
+LOC106867577_intron natural resistance-associated macrophage protein 2, transcript variant X4
+LOC106867578_intron arginase, hepatic
+LOC106867614_intron BTB/POZ domain-containing protein kctd15
+LOC106867651_intron uncharacterized LOC106867651, transcript variant X1
+LOC106867653_intron uncharacterized LOC106867653, transcript variant X1
+LOC106867653_intron uncharacterized LOC106867653, transcript variant X2
+LOC106867653_intron uncharacterized LOC106867653, transcript variant X3
+LOC106867653_intron uncharacterized LOC106867653, transcript variant X4
+LOC106867656_intron serine/threonine-protein kinase PRP4 homolog
+LOC106867657_intron mismatch repair endonuclease PMS2, transcript variant X1
+LOC106867657_intron mismatch repair endonuclease PMS2, transcript variant X2
+LOC106867658_intron surfeit locus protein 1
+LOC106867659_intron uncharacterized LOC106867659, transcript variant X1
+LOC106867659_intron uncharacterized LOC106867659, transcript variant X2
+LOC106867662_intron TBC1 domain family member 16, transcript variant X1
+LOC106867662_intron TBC1 domain family member 16, transcript variant X2
+LOC106867662_intron TBC1 domain family member 16, transcript variant X3
+LOC106867663_intron uncharacterized LOC106867663
+LOC106867664_intron T-cell activation inhibitor, mitochondrial
+LOC106867665_intron gamma-soluble NSF attachment protein
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X1
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X10
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X2
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X3
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X4
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X5
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X6
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X7
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X8
+LOC106867666_intron activating transcription factor 7-interacting protein 1, transcript variant X9
+LOC106867667_intron coiled-coil alpha-helical rod protein 1
+LOC106867668_intron short transient receptor potential channel 4-associated protein
+LOC106867669_intron WD repeat-containing protein 88
+LOC106867671_intron coiled-coil alpha-helical rod protein 1
+LOC106867686_intron protein unc-13 homolog D
+LOC106867687_intron uncharacterized LOC106867687
+LOC106867716_intron splicing factor 3B subunit 3
+LOC106867718_intron hepatocyte nuclear factor 4-gamma, transcript variant X1
+LOC106867718_intron hepatocyte nuclear factor 4-gamma, transcript variant X2
+LOC106867718_intron hepatocyte nuclear factor 4-gamma, transcript variant X3
+LOC106867718_intron hepatocyte nuclear factor 4-gamma, transcript variant X4
+LOC106867718_intron hepatocyte nuclear factor 4-gamma, transcript variant X5
+LOC106867718_intron hepatocyte nuclear factor 4-gamma, transcript variant X6
+LOC106867719_intron DDB1- and CUL4-associated factor 11, transcript variant X1
+LOC106867719_intron DDB1- and CUL4-associated factor 11, transcript variant X2
+LOC106867721_intron conserved oligomeric Golgi complex subunit 4
+LOC106867748_intron WD repeat domain phosphoinositide-interacting protein 3
+LOC106867929_intron myosin-G heavy chain, transcript variant X1
+LOC106867929_intron myosin-G heavy chain, transcript variant X2
+LOC106867929_intron myosin-G heavy chain, transcript variant X3
+LOC106867929_intron myosin-G heavy chain, transcript variant X4
+LOC106867929_intron myosin-G heavy chain, transcript variant X5
+LOC106867929_intron myosin-G heavy chain, transcript variant X6
+LOC106867929_intron myosin-G heavy chain, transcript variant X7
+LOC106867929_intron myosin-G heavy chain, transcript variant X8
+LOC106867929_intron myosin-G heavy chain, transcript variant X9
+LOC106867957_intron calcitonin receptor
+LOC106867958_intron tyrosine-protein phosphatase non-receptor type 23, transcript variant X1
+LOC106867958_intron tyrosine-protein phosphatase non-receptor type 23, transcript variant X2
+LOC106868011_intron ATP-binding cassette sub-family F member 1
+LOC106868012_intron dual specificity mitogen-activated protein kinase kinase 7, transcript variant X1
+LOC106868012_intron dual specificity mitogen-activated protein kinase kinase 7, transcript variant X2
+LOC106868012_intron dual specificity mitogen-activated protein kinase kinase 7, transcript variant X3
+LOC106868013_intron uncharacterized LOC106868013, transcript variant X1
+LOC106868013_intron uncharacterized LOC106868013, transcript variant X2
+LOC106868068_intron secretin receptor
+LOC106868088_intron probable ubiquitin carboxyl-terminal hydrolase MINDY-4, transcript variant X1
+LOC106868088_intron probable ubiquitin carboxyl-terminal hydrolase MINDY-4, transcript variant X2
+LOC106868088_intron probable ubiquitin carboxyl-terminal hydrolase MINDY-4, transcript variant X3
+LOC106868108_intron 10 kDa heat shock protein, mitochondrial
+LOC106868115_intron uncharacterized LOC106868115
+LOC106868126_intron nucleolar protein 58
+LOC106868146_intron heat shock protein 60A
+LOC106868241_intron T-box transcription factor TBX20, transcript variant X1
+LOC106868241_intron T-box transcription factor TBX20, transcript variant X2
+LOC106868241_intron T-box transcription factor TBX20, transcript variant X3
+LOC106868277_intron toll-like receptor Tollo, transcript variant X1
+LOC106868277_intron toll-like receptor Tollo, transcript variant X2
+LOC106868277_intron toll-like receptor Tollo, transcript variant X3
+LOC106868280_intron uncharacterized LOC106868280
+LOC106868281_intron sphingomyelin phosphodiesterase 4
+LOC106868291_intron voltage-dependent calcium channel subunit alpha-2/delta-2, transcript variant X1
+LOC106868291_intron voltage-dependent calcium channel subunit alpha-2/delta-2, transcript variant X2
+LOC106868291_intron voltage-dependent calcium channel subunit alpha-2/delta-2, transcript variant X3
+LOC106868291_intron voltage-dependent calcium channel subunit alpha-2/delta-2, transcript variant X4
+LOC106868291_intron voltage-dependent calcium channel subunit alpha-2/delta-2, transcript variant X5
+LOC106868291_intron voltage-dependent calcium channel subunit alpha-2/delta-2, transcript variant X6
+LOC106868294_intron glutathione synthetase
+LOC106868390_intron protein NDRG3, transcript variant X1
+LOC106868390_intron protein NDRG3, transcript variant X2
+LOC106868390_intron protein NDRG3, transcript variant X3
+LOC106868390_intron protein NDRG3, transcript variant X4
+LOC106868390_intron protein NDRG3, transcript variant X5
+LOC106868390_intron protein NDRG3, transcript variant X6
+LOC106868390_intron protein NDRG3, transcript variant X7
+LOC106868390_intron protein NDRG3, transcript variant X8
+LOC106868390_intron protein NDRG3, transcript variant X9
+LOC106868391_intron low-density lipoprotein receptor class A domain-containing protein 4, transcript variant X1
+LOC106868391_intron low-density lipoprotein receptor class A domain-containing protein 4, transcript variant X2
+LOC106868391_intron low-density lipoprotein receptor class A domain-containing protein 4, transcript variant X3
+LOC106868391_intron low-density lipoprotein receptor class A domain-containing protein 4, transcript variant X4
+LOC106868391_intron low-density lipoprotein receptor class A domain-containing protein 4, transcript variant X5
+LOC106868429_intron mitoguardin, transcript variant X1
+LOC106868429_intron mitoguardin, transcript variant X2
+LOC106868429_intron mitoguardin, transcript variant X3
+LOC106868429_intron mitoguardin, transcript variant X4
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X1
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X10
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X11
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X2
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X3
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X4
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X5
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X6
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X7
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X8
+LOC106868430_intron tudor domain-containing protein 5, transcript variant X9
+LOC106868432_intron supervillin, transcript variant X1
+LOC106868432_intron supervillin, transcript variant X10
+LOC106868432_intron supervillin, transcript variant X11
+LOC106868432_intron supervillin, transcript variant X12
+LOC106868432_intron supervillin, transcript variant X13
+LOC106868432_intron supervillin, transcript variant X2
+LOC106868432_intron supervillin, transcript variant X3
+LOC106868432_intron supervillin, transcript variant X4
+LOC106868432_intron supervillin, transcript variant X5
+LOC106868432_intron supervillin, transcript variant X6
+LOC106868432_intron supervillin, transcript variant X7
+LOC106868432_intron supervillin, transcript variant X8
+LOC106868432_intron supervillin, transcript variant X9
+LOC106868433_intron uncharacterized LOC106868433, transcript variant X1
+LOC106868433_intron uncharacterized LOC106868433, transcript variant X2
+LOC106868433_intron uncharacterized LOC106868433, transcript variant X3
+LOC106868434_intron inversin, transcript variant X1
+LOC106868434_intron inversin, transcript variant X2
+LOC106868434_intron inversin, transcript variant X3
+LOC106868434_intron inversin, transcript variant X4
+LOC106868434_intron inversin, transcript variant X5
+LOC106868434_intron inversin, transcript variant X6
+LOC106868436_intron ATP-dependent RNA helicase A, transcript variant X1
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X1
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X10
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X2
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X3
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X4
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X5
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X6
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X7
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X8
+LOC106868437_intron retinoic acid receptor RXR, transcript variant X9
+LOC106868439_intron uncharacterized LOC106868439, transcript variant X1
+LOC106868439_intron uncharacterized LOC106868439, transcript variant X2
+LOC106868440_intron importin-4
+LOC106868441_intron retinal-binding protein, transcript variant X1
+LOC106868441_intron retinal-binding protein, transcript variant X2
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X1
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X2
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X3
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X4
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X5
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X6
+LOC106868443_intron uncharacterized LOC106868443, transcript variant X7
+LOC106868444_intron zinc finger protein GLIS2, transcript variant X1
+LOC106868446_intron importin-4
+LOC106868447_intron uncharacterized LOC106868447, transcript variant X1
+LOC106868447_intron uncharacterized LOC106868447, transcript variant X2
+LOC106868448_intron kielin/chordin-like protein
+LOC106868449_intron uncharacterized LOC106868449
+LOC106868481_intron uncharacterized LOC106868481, transcript variant X1
+LOC106868481_intron uncharacterized LOC106868481, transcript variant X2
+LOC106868482_intron monocyte to macrophage differentiation factor 2, transcript variant X1
+LOC106868482_intron monocyte to macrophage differentiation factor 2, transcript variant X2
+LOC106868482_intron monocyte to macrophage differentiation factor 2, transcript variant X3
+LOC106868482_intron monocyte to macrophage differentiation factor 2, transcript variant X4
+LOC106868482_intron monocyte to macrophage differentiation factor 2, transcript variant X5
+LOC106868484_intron leucine-rich repeat-containing protein 45, transcript variant X1
+LOC106868484_intron leucine-rich repeat-containing protein 45, transcript variant X2
+LOC106868485_intron enhancer of mRNA-decapping protein 4, transcript variant X1
+LOC106868485_intron enhancer of mRNA-decapping protein 4, transcript variant X2
+LOC106868485_intron enhancer of mRNA-decapping protein 4, transcript variant X3
+LOC106868485_intron enhancer of mRNA-decapping protein 4, transcript variant X4
+LOC106868531_intron interleukin 17-like protein, transcript variant X1
+LOC106868531_intron interleukin 17-like protein, transcript variant X2
+LOC106868534_intron interleukin 17-like protein
+LOC106868535_intron interleukin 17-like protein
+LOC106868539_intron interleukin 17-like protein
+LOC106868541_intron interleukin 17-like protein
+LOC106868542_intron interleukin 17-like protein, transcript variant X2
+LOC106868543_intron interleukin 17-like protein
+LOC106868544_intron interleukin 17-like protein, transcript variant X1
+LOC106868544_intron interleukin 17-like protein, transcript variant X2
+LOC106868547_intron interleukin 17-like protein
+LOC106868567_intron probable ATP-dependent RNA helicase DDX52
+LOC106868569_intron dnaJ homolog subfamily C member 10
+LOC106868570_intron BRCA1-associated protein
+LOC106868571_intron uncharacterized LOC106868571
+LOC106868572_intron leucine-rich repeat-containing protein 74B
+LOC106868573_intron myosin-2 heavy chain
+LOC106868575_intron mitogen-activated protein kinase 14, transcript variant X1
+LOC106868575_intron mitogen-activated protein kinase 14, transcript variant X2
+LOC106868575_intron mitogen-activated protein kinase 14, transcript variant X3
+LOC106868576_intron uncharacterized LOC106868576
+LOC106868726_intron peroxisomal trans-2-enoyl-CoA reductase, transcript variant X1
+LOC106868726_intron peroxisomal trans-2-enoyl-CoA reductase, transcript variant X2
+LOC106868726_intron peroxisomal trans-2-enoyl-CoA reductase, transcript variant X3
+LOC106868728_intron uncharacterized LOC106868728
+LOC106868730_intron uncharacterized LOC106868730, transcript variant X1
+LOC106868730_intron uncharacterized LOC106868730, transcript variant X2
+LOC106868780_intron dipeptidase 1
+LOC106868909_intron uncharacterized LOC106868909, transcript variant X1
+LOC106868909_intron uncharacterized LOC106868909, transcript variant X2
+LOC106868919_intron 15 kDa calcium-binding protein
+LOC106869098_intron solute carrier family 41 member 1, transcript variant X1
+LOC106869098_intron solute carrier family 41 member 1, transcript variant X2
+LOC106869098_intron solute carrier family 41 member 1, transcript variant X3
+LOC106869098_intron solute carrier family 41 member 1, transcript variant X4
+LOC106869098_intron solute carrier family 41 member 1, transcript variant X5
+LOC106869098_intron solute carrier family 41 member 1, transcript variant X6
+LOC106869134_intron two pore channel protein 1, transcript variant X1
+LOC106869134_intron two pore channel protein 1, transcript variant X2
+LOC106869134_intron two pore channel protein 1, transcript variant X3
+LOC106869144_intron RNA polymerase II-associated protein 1
+LOC106869148_intron uncharacterized LOC106869148, transcript variant X3
+LOC106869154_intron leucine-rich repeat serine/threonine-protein kinase 2, transcript variant X1
+LOC106869154_intron leucine-rich repeat serine/threonine-protein kinase 2, transcript variant X2
+LOC106869155_intron alpha-aminoadipic semialdehyde synthase, mitochondrial, transcript variant X1
+LOC106869155_intron alpha-aminoadipic semialdehyde synthase, mitochondrial, transcript variant X2
+LOC106869155_intron alpha-aminoadipic semialdehyde synthase, mitochondrial, transcript variant X3
+LOC106869155_intron alpha-aminoadipic semialdehyde synthase, mitochondrial, transcript variant X4
+LOC106869157_intron protein phosphatase 1 regulatory subunit 16A, transcript variant X1
+LOC106869157_intron protein phosphatase 1 regulatory subunit 16A, transcript variant X2
+LOC106869157_intron protein phosphatase 1 regulatory subunit 16A, transcript variant X3
+LOC106869157_intron protein phosphatase 1 regulatory subunit 16A, transcript variant X4
+LOC106869157_intron protein phosphatase 1 regulatory subunit 16A, transcript variant X5
+LOC106869160_intron NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial
+LOC106869166_intron mitochondrial import inner membrane translocase subunit Tim17-B
+LOC106869174_intron protein arginine N-methyltransferase 7, transcript variant X1
+LOC106869174_intron protein arginine N-methyltransferase 7, transcript variant X2
+LOC106869174_intron protein arginine N-methyltransferase 7, transcript variant X3
+LOC106869199_intron uncharacterized LOC106869199
+LOC106869306_intron trafficking protein particle complex subunit 8
+LOC106869309_intron uncharacterized LOC106869309
+LOC106869311_intron protein transport protein Sec24C, transcript variant X1
+LOC106869311_intron protein transport protein Sec24C, transcript variant X2
+LOC106869311_intron protein transport protein Sec24C, transcript variant X3
+LOC106869312_intron phosphatidylinositol N-acetylglucosaminyltransferase subunit Q
+LOC106869314_intron mucin-5AC, transcript variant X1
+LOC106869314_intron mucin-5AC, transcript variant X2
+LOC106869314_intron mucin-5AC, transcript variant X3
+LOC106869314_intron mucin-5AC, transcript variant X4
+LOC106869314_intron mucin-5AC, transcript variant X5
+LOC106869316_intron choline transporter-like protein 2, transcript variant X1
+LOC106869316_intron choline transporter-like protein 2, transcript variant X2
+LOC106869316_intron choline transporter-like protein 2, transcript variant X3
+LOC106869316_intron choline transporter-like protein 2, transcript variant X4
+LOC106869316_intron choline transporter-like protein 2, transcript variant X5
+LOC106869316_intron choline transporter-like protein 2, transcript variant X6
+LOC106869317_intron choline transporter-like protein 2, transcript variant X1
+LOC106869317_intron choline transporter-like protein 2, transcript variant X2
+LOC106869317_intron choline transporter-like protein 2, transcript variant X3
+LOC106869318_intron abnormal spindle-like microcephaly-associated protein homolog
+LOC106869320_intron EVI5-like protein, transcript variant X1
+LOC106869320_intron EVI5-like protein, transcript variant X2
+LOC106869320_intron EVI5-like protein, transcript variant X3
+LOC106869320_intron EVI5-like protein, transcript variant X4
+LOC106869321_intron peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+LOC106869342_intron NOP protein chaperone 1-like, transcript variant X1
+LOC106869342_intron NOP protein chaperone 1-like, transcript variant X2
+LOC106869342_intron NOP protein chaperone 1-like, transcript variant X3
+LOC106869343_intron kelch-like protein 26, transcript variant X1
+LOC106869343_intron kelch-like protein 26, transcript variant X2
+LOC106869343_intron kelch-like protein 26, transcript variant X3
+LOC106869343_intron kelch-like protein 26, transcript variant X4
+LOC106869343_intron kelch-like protein 26, transcript variant X5
+LOC106869364_intron glutamate receptor
+LOC106869472_intron phospholipid scramblase 1-like
+LOC106869475_intron uncharacterized LOC106869475
+LOC106869500_intron retinol dehydrogenase 11, transcript variant X1
+LOC106869500_intron retinol dehydrogenase 11, transcript variant X2
+LOC106869500_intron retinol dehydrogenase 11, transcript variant X3
+LOC106869500_intron retinol dehydrogenase 11, transcript variant X4
+LOC106869501_intron transmembrane protein 135
+LOC106869508_intron uncharacterized LOC106869508
+LOC106869541_intron obscurin
+LOC106869546_intron uncharacterized LOC106869546
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X1
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X2
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X3
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X4
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X5
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X6
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X7
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X8
+LOC106869571_intron orphan steroid hormone receptor 2, transcript variant X9
+LOC106869589_intron toll-like receptor 4
+LOC106869592_intron folylpolyglutamate synthase, mitochondrial
+LOC106869711_intron uncharacterized LOC106869711
+LOC106869712_intron partitioning defective protein 6
+LOC106869713_intron U8 snoRNA-decapping enzyme
+LOC106869715_intron uncharacterized LOC106869715, transcript variant X1
+LOC106869715_intron uncharacterized LOC106869715, transcript variant X2
+LOC106869715_intron uncharacterized LOC106869715, transcript variant X3
+LOC106869757_intron uncharacterized LOC106869757
+LOC106869956_intron protein UBASH3A homolog
+LOC106869957_intron uncharacterized LOC106869957
+LOC106869958_intron sodium-dependent multivitamin transporter
+LOC106869959_intron MTOR-associated protein MEAK7
+LOC106870016_intron elongation factor Tu, mitochondrial
+LOC106870019_intron uncharacterized LOC106870019
+LOC106870020_intron uncharacterized LOC106870020, transcript variant X1
+LOC106870020_intron uncharacterized LOC106870020, transcript variant X2
+LOC106870021_intron purine nucleoside phosphorylase
+LOC106870184_intron VID27-like protein
+LOC106870289_intron uncharacterized LOC106870289
+LOC106870290_intron paladin, transcript variant X1
+LOC106870290_intron paladin, transcript variant X2
+LOC106870290_intron paladin, transcript variant X3
+LOC106870290_intron paladin, transcript variant X4
+LOC106870290_intron paladin, transcript variant X5
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X1
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X10
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X11
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X12
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X2
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X3
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X4
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X5
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X6
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X7
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X8
+LOC106870292_intron large neutral amino acids transporter small subunit 2, transcript variant X9
+LOC106870366_intron uncharacterized protein DDB_G0271670-like, transcript variant X1
+LOC106870366_intron uncharacterized protein DDB_G0271670-like, transcript variant X2
+LOC106870366_intron uncharacterized protein DDB_G0271670-like, transcript variant X3
+LOC106870366_intron uncharacterized protein DDB_G0271670-like, transcript variant X4
+LOC106870367_intron sperm-associated antigen 6
+LOC106870369_intron protein PRRC2C, transcript variant X1
+LOC106870369_intron protein PRRC2C, transcript variant X2
+LOC106870369_intron protein PRRC2C, transcript variant X3
+LOC106870369_intron protein PRRC2C, transcript variant X4
+LOC106870369_intron protein PRRC2C, transcript variant X5
+LOC106870369_intron protein PRRC2C, transcript variant X6
+LOC106870372_intron uncharacterized LOC106870372, transcript variant X1
+LOC106870372_intron uncharacterized LOC106870372, transcript variant X2
+LOC106870372_intron uncharacterized LOC106870372, transcript variant X3
+LOC106870372_intron uncharacterized LOC106870372, transcript variant X4
+LOC106870372_intron uncharacterized LOC106870372, transcript variant X5
+LOC106870372_intron uncharacterized LOC106870372, transcript variant X6
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X1
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X2
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X3
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X4
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X5
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X6
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X7
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X8
+LOC106870398_intron beta-hexosaminidase subunit beta, transcript variant X9
+LOC106870402_intron serine/threonine-protein kinase Kist, transcript variant X1
+LOC106870402_intron serine/threonine-protein kinase Kist, transcript variant X2
+LOC106870402_intron serine/threonine-protein kinase Kist, transcript variant X3
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X1
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X2
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X3
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X4
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X5
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X6
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X7
+LOC106870506_intron ras-specific guanine nucleotide-releasing factor RalGPS1, transcript variant X8
+LOC106870507_intron LIM/homeobox protein Awh
+LOC106870560_intron calcitonin receptor, transcript variant X1
+LOC106870560_intron calcitonin receptor, transcript variant X2
+LOC106870560_intron calcitonin receptor, transcript variant X3
+LOC106870561_intron serine/threonine-protein kinase 17B
+LOC106870616_intron uncharacterized LOC106870616
+LOC106870617_intron sodium-coupled neutral amino acid transporter 7
+LOC106870620_intron uncharacterized LOC106870620
+LOC106870621_intron UBX domain-containing protein 6, transcript variant X1
+LOC106870621_intron UBX domain-containing protein 6, transcript variant X2
+LOC106870634_intron uncharacterized LOC106870634
+LOC106870635_intron rab GDP dissociation inhibitor alpha
+LOC106870639_intron pre-mRNA-splicing factor SYF1
+LOC106870660_intron ATP-dependent translocase ABCB1
+LOC106870663_intron neuronal acetylcholine receptor subunit alpha-3
+LOC106870664_intron membrane-bound transcription factor site-1 protease
+LOC106870672_intron beta-1,3-galactosyltransferase 5, transcript variant X1
+LOC106870672_intron beta-1,3-galactosyltransferase 5, transcript variant X2
+LOC106870672_intron beta-1,3-galactosyltransferase 5, transcript variant X3
+LOC106870672_intron beta-1,3-galactosyltransferase 5, transcript variant X4
+LOC106870672_intron beta-1,3-galactosyltransferase 5, transcript variant X5
+LOC106870674_intron hsp90 co-chaperone Cdc37, transcript variant X1
+LOC106870674_intron hsp90 co-chaperone Cdc37, transcript variant X2
+LOC106870675_intron cytochrome P450 20A1
+LOC106870676_intron periodic tryptophan protein 1 homolog
+LOC106870687_intron EKC/KEOPS complex subunit Lage3
+LOC106870705_intron mannose-1-phosphate guanyltransferase alpha-A, transcript variant X1
+LOC106870705_intron mannose-1-phosphate guanyltransferase alpha-A, transcript variant X2
+LOC106870727_intron dynein beta chain, ciliary
+LOC106870735_intron prosaposin, transcript variant X1
+LOC106870735_intron prosaposin, transcript variant X2
+LOC106870743_intron divergent protein kinase domain 1C, transcript variant X1
+LOC106870743_intron divergent protein kinase domain 1C, transcript variant X2
+LOC106870743_intron divergent protein kinase domain 1C, transcript variant X3
+LOC106870766_intron secernin-3, transcript variant X1
+LOC106870766_intron secernin-3, transcript variant X2
+LOC106870766_intron secernin-3, transcript variant X3
+LOC106870766_intron secernin-3, transcript variant X4
+LOC106870789_intron ADP-ribosylation factor-like protein 5B, transcript variant X1
+LOC106870789_intron ADP-ribosylation factor-like protein 5B, transcript variant X2
+LOC106870823_intron uncharacterized LOC106870823
+LOC106870825_intron transmembrane protein 231
+LOC106870827_intron uncharacterized LOC106870827
+LOC106870828_intron uncharacterized LOC106870828, transcript variant X1
+LOC106870828_intron uncharacterized LOC106870828, transcript variant X2
+LOC106870828_intron uncharacterized LOC106870828, transcript variant X3
+LOC106870830_intron MORN repeat-containing protein 1, transcript variant X1
+LOC106870830_intron MORN repeat-containing protein 1, transcript variant X2
+LOC106870831_intron N-terminal EF-hand calcium-binding protein 1, transcript variant X1
+LOC106870831_intron N-terminal EF-hand calcium-binding protein 1, transcript variant X2
+LOC106870854_intron DNA mismatch repair protein Mlh1, transcript variant X1
+LOC106870854_intron DNA mismatch repair protein Mlh1, transcript variant X2
+LOC106870855_intron beta-galactosidase
+LOC106870856_intron rRNA N6-adenosine-methyltransferase METTL5, transcript variant X1
+LOC106870856_intron rRNA N6-adenosine-methyltransferase METTL5, transcript variant X2
+LOC106870856_intron rRNA N6-adenosine-methyltransferase METTL5, transcript variant X3
+LOC106870856_intron rRNA N6-adenosine-methyltransferase METTL5, transcript variant X4
+LOC106870856_intron rRNA N6-adenosine-methyltransferase METTL5, transcript variant X5
+LOC106870857_intron INO80 complex subunit C
+LOC106870901_intron L-proline trans-4-hydroxylase
+LOC106870903_intron uncharacterized LOC106870903
+LOC106870904_intron uncharacterized LOC106870904
+LOC106871076_intron uncharacterized LOC106871076, transcript variant X1
+LOC106871076_intron uncharacterized LOC106871076, transcript variant X2
+LOC106871076_intron uncharacterized LOC106871076, transcript variant X3
+LOC106871077_intron integrin alpha-4
+LOC106871079_intron uncharacterized LOC106871079
+LOC106871080_intron reticulocyte-binding protein homolog 2a
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X1
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X2
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X3
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X4
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X5
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X6
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X7
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X8
+LOC106871081_intron pyridoxine-5'-phosphate oxidase, transcript variant X9
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X1
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X2
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X3
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X4
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X5
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X6
+LOC106871082_intron coiled-coil domain-containing protein 34, transcript variant X7
+LOC106871085_intron centrosomal protein of 162 kDa
+LOC106871086_intron gastric inhibitory polypeptide receptor, transcript variant X1
+LOC106871086_intron gastric inhibitory polypeptide receptor, transcript variant X2
+LOC106871107_intron paraplegin
+LOC106871108_intron uncharacterized LOC106871108
+LOC106871109_intron uncharacterized LOC106871109
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X1
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X10
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X2
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X3
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X4
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X5
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X6
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X7
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X8
+LOC106871111_intron ankyrin repeat domain-containing protein 12, transcript variant X9
+LOC106871113_intron E3 ubiquitin-protein ligase ZNRF2
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X1
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X2
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X3
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X4
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X5
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X6
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X7
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X8
+LOC106871129_intron uncharacterized LOC106871129, transcript variant X9
+LOC106871137_intron urocanate hydratase, transcript variant X1
+LOC106871137_intron urocanate hydratase, transcript variant X2
+LOC106871151_intron solute carrier family 12 member 4, transcript variant X1
+LOC106871151_intron solute carrier family 12 member 4, transcript variant X2
+LOC106871151_intron solute carrier family 12 member 4, transcript variant X3
+LOC106871166_intron histidine ammonia-lyase
+LOC106871180_intron exocyst complex component 5
+LOC106871356_intron sodium- and chloride-dependent transporter XTRP3, transcript variant X1
+LOC106871356_intron sodium- and chloride-dependent transporter XTRP3, transcript variant X2
+LOC106871357_intron growth hormone secretagogue receptor type 1, transcript variant X1
+LOC106871357_intron growth hormone secretagogue receptor type 1, transcript variant X2
+LOC106871357_intron growth hormone secretagogue receptor type 1, transcript variant X3
+LOC106871357_intron growth hormone secretagogue receptor type 1, transcript variant X4
+LOC106871359_intron cln5-like protein 1
+LOC106871360_intron multiple epidermal growth factor-like domains protein 8
+LOC106871402_intron A disintegrin and metalloproteinase with thrombospondin motifs 16
+LOC106871403_intron coiled-coil domain-containing protein 146
+LOC106871405_intron ninjurin-2, transcript variant X1
+LOC106871405_intron ninjurin-2, transcript variant X2
+LOC106871405_intron ninjurin-2, transcript variant X3
+LOC106871405_intron ninjurin-2, transcript variant X4
+LOC106871405_intron ninjurin-2, transcript variant X5
+LOC106871406_intron glutathione S-transferase theta-1
+LOC106871407_intron fibrinogen-like protein 1
+LOC106871410_intron orexin receptor type 2
+LOC106871411_intron protein disulfide-isomerase TMX3
+LOC106871412_intron techylectin-5B
+LOC106871413_intron prefoldin subunit 4
+LOC106871416_intron nicotinate-nucleotide pyrophosphorylase [carboxylating]
+LOC106871417_intron CD109 antigen
+LOC106871418_intron protein FAM89A, transcript variant X1
+LOC106871418_intron protein FAM89A, transcript variant X2
+LOC106871418_intron protein FAM89A, transcript variant X3
+LOC106871418_intron protein FAM89A, transcript variant X4
+LOC106871418_intron protein FAM89A, transcript variant X5
+LOC106871418_intron protein FAM89A, transcript variant X6
+LOC106871418_intron protein FAM89A, transcript variant X7
+LOC106871419_intron uncharacterized LOC106871419, transcript variant X1
+LOC106871419_intron uncharacterized LOC106871419, transcript variant X2
+LOC106871419_intron uncharacterized LOC106871419, transcript variant X3
+LOC106871419_intron uncharacterized LOC106871419, transcript variant X4
+LOC106871419_intron uncharacterized LOC106871419, transcript variant X5
+LOC106871419_intron uncharacterized LOC106871419, transcript variant X6
+LOC106871456_intron protein sidekick-1, transcript variant X1
+LOC106871456_intron protein sidekick-1, transcript variant X2
+LOC106871456_intron protein sidekick-1, transcript variant X3
+LOC106871456_intron protein sidekick-1, transcript variant X4
+LOC106871456_intron protein sidekick-1, transcript variant X5
+LOC106871490_intron uncharacterized LOC106871490
+LOC106871491_intron la-related protein 4, transcript variant X1
+LOC106871491_intron la-related protein 4, transcript variant X2
+LOC106871491_intron la-related protein 4, transcript variant X3
+LOC106871491_intron la-related protein 4, transcript variant X4
+LOC106871491_intron la-related protein 4, transcript variant X5
+LOC106871491_intron la-related protein 4, transcript variant X6
+LOC106871491_intron la-related protein 4, transcript variant X7
+LOC106871492_intron SUN domain-containing ossification factor, transcript variant X1
+LOC106871492_intron SUN domain-containing ossification factor, transcript variant X2
+LOC106871492_intron SUN domain-containing ossification factor, transcript variant X3
+LOC106871495_intron band 3 anion transport protein, transcript variant X1
+LOC106871495_intron band 3 anion transport protein, transcript variant X2
+LOC106871495_intron band 3 anion transport protein, transcript variant X3
+LOC106871495_intron band 3 anion transport protein, transcript variant X4
+LOC106871495_intron band 3 anion transport protein, transcript variant X5
+LOC106871495_intron band 3 anion transport protein, transcript variant X6
+LOC106871495_intron band 3 anion transport protein, transcript variant X7
+LOC106871495_intron band 3 anion transport protein, transcript variant X8
+LOC106871495_intron band 3 anion transport protein, transcript variant X9
+LOC106871508_intron mitochondrial Rho GTPase 1, transcript variant X1
+LOC106871508_intron mitochondrial Rho GTPase 1, transcript variant X2
+LOC106871510_intron uncharacterized protein F21D5.5, transcript variant X1
+LOC106871510_intron uncharacterized protein F21D5.5, transcript variant X2
+LOC106871510_intron uncharacterized protein F21D5.5, transcript variant X3
+LOC106871510_intron uncharacterized protein F21D5.5, transcript variant X4
+LOC106871511_intron glycine cleavage system H protein
+LOC106871545_intron GTPase Era, mitochondrial
+LOC106871693_intron histone-lysine N-methyltransferase SETMAR-like
+LOC106871697_intron histamine H3 receptor
+LOC106871698_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X1
+LOC106871698_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X2
+LOC106871698_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X3
+LOC106871698_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X4
+LOC106871800_intron lysozyme
+LOC106871832_intron T-box transcription factor TBX20
+LOC106871880_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X1
+LOC106871880_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X2
+LOC106871880_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X3
+LOC106871880_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X4
+LOC106871880_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X5
+LOC106871882_intron oxidized purine nucleoside triphosphate hydrolase
+LOC106871884_intron macrophage mannose receptor 1
+LOC106871885_intron macrophage mannose receptor 1, transcript variant X1
+LOC106871885_intron macrophage mannose receptor 1, transcript variant X2
+LOC106871885_intron macrophage mannose receptor 1, transcript variant X3
+LOC106871886_intron uncharacterized LOC106871886
+LOC106871887_intron macrophage mannose receptor 1
+LOC106871888_intron hemolymph lipopolysaccharide-binding protein
+LOC106871957_intron cysteine-rich venom protein
+LOC106872255_intron apoptosis-inducing factor 3
+LOC106872256_intron tubulin monoglutamylase TTLL4, transcript variant X1
+LOC106872256_intron tubulin monoglutamylase TTLL4, transcript variant X2
+LOC106872258_intron probable tubulin polyglutamylase TTLL9
+LOC106872261_intron cyclic nucleotide-gated cation channel beta-3, transcript variant X1
+LOC106872261_intron cyclic nucleotide-gated cation channel beta-3, transcript variant X2
+LOC106872261_intron cyclic nucleotide-gated cation channel beta-3, transcript variant X3
+LOC106872282_intron transformer-2 protein homolog beta
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X1
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X2
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X3
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X4
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X5
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X6
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X7
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X8
+LOC106872285_intron ankyrin repeat domain-containing protein 42, transcript variant X9
+LOC106872286_intron uncharacterized LOC106872286
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X1
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X10
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X11
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X12
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X13
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X14
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X2
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X3
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X4
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X5
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X6
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X7
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X8
+LOC106872289_intron polypeptide N-acetylgalactosaminyltransferase 1, transcript variant X9
+LOC106872292_intron protein DGCR6, transcript variant X1
+LOC106872292_intron protein DGCR6, transcript variant X2
+LOC106872292_intron protein DGCR6, transcript variant X3
+LOC106872633_intron outer dynein arm-docking complex subunit 2
+LOC106872663_intron iroquois-class homeodomain protein IRX-6
+LOC106872762_intron protein transport protein Sec61 subunit alpha-like 1
+LOC106872764_intron V-type proton ATPase subunit d
+LOC106872767_intron U4/U6 small nuclear ribonucleoprotein Prp4, transcript variant X1
+LOC106872767_intron U4/U6 small nuclear ribonucleoprotein Prp4, transcript variant X2
+LOC106872768_intron proteasome subunit alpha type-7
+LOC106872769_intron uncharacterized LOC106872769, transcript variant X1
+LOC106872769_intron uncharacterized LOC106872769, transcript variant X2
+LOC106872769_intron uncharacterized LOC106872769, transcript variant X3
+LOC106872769_intron uncharacterized LOC106872769, transcript variant X4
+LOC106872770_intron uncharacterized LOC106872770, transcript variant X1
+LOC106872770_intron uncharacterized LOC106872770, transcript variant X2
+LOC106872770_intron uncharacterized LOC106872770, transcript variant X3
+LOC106872770_intron uncharacterized LOC106872770, transcript variant X4
+LOC106872770_intron uncharacterized LOC106872770, transcript variant X5
+LOC106872775_intron uncharacterized LOC106872775, transcript variant X1
+LOC106872775_intron uncharacterized LOC106872775, transcript variant X2
+LOC106872775_intron uncharacterized LOC106872775, transcript variant X3
+LOC106872777_intron 3-phosphoinositide-dependent protein kinase 1
+LOC106872778_intron uncharacterized LOC106872778
+LOC106872779_intron V-type proton ATPase 116 kDa subunit a 1, transcript variant X1
+LOC106872779_intron V-type proton ATPase 116 kDa subunit a 1, transcript variant X2
+LOC106872780_intron large neutral amino acids transporter small subunit 1, transcript variant X1
+LOC106872780_intron large neutral amino acids transporter small subunit 1, transcript variant X2
+LOC106872780_intron large neutral amino acids transporter small subunit 1, transcript variant X3
+LOC106872789_intron uncharacterized LOC106872789
+LOC106873006_intron neuronal calcium sensor 1, transcript variant X1
+LOC106873006_intron neuronal calcium sensor 1, transcript variant X2
+LOC106873006_intron neuronal calcium sensor 1, transcript variant X3
+LOC106873009_intron uncharacterized LOC106873009, transcript variant X1
+LOC106873009_intron uncharacterized LOC106873009, transcript variant X2
+LOC106873009_intron uncharacterized LOC106873009, transcript variant X3
+LOC106873009_intron uncharacterized LOC106873009, transcript variant X7
+LOC106873107_intron uncharacterized LOC106873107, transcript variant X1
+LOC106873107_intron uncharacterized LOC106873107, transcript variant X2
+LOC106873107_intron uncharacterized LOC106873107, transcript variant X3
+LOC106873108_intron obscurin, transcript variant X1
+LOC106873108_intron obscurin, transcript variant X2
+LOC106873108_intron obscurin, transcript variant X3
+LOC106873108_intron obscurin, transcript variant X4
+LOC106873108_intron obscurin, transcript variant X5
+LOC106873143_intron carbonic anhydrase 12
+LOC106873144_intron balbiani ring protein 3
+LOC106873145_intron uncharacterized LOC106873145
+LOC106873146_intron uncharacterized LOC106873146, transcript variant X1
+LOC106873146_intron uncharacterized LOC106873146, transcript variant X2
+LOC106873157_intron Na(+)/H(+) exchanger beta
+LOC106873158_intron uncharacterized LOC106873158
+LOC106873159_intron uncharacterized LOC106873159
+LOC106873161_intron enoyl-CoA delta isomerase 2
+LOC106873219_intron protein prickle
+LOC106873274_intron uncharacterized LOC106873274
+LOC106873275_intron beta-ureidopropionase
+LOC106873276_intron S-adenosylmethionine mitochondrial carrier protein
+LOC106873279_intron nascent polypeptide-associated complex subunit alpha, muscle-specific form, transcript variant X1
+LOC106873279_intron nascent polypeptide-associated complex subunit alpha, muscle-specific form, transcript variant X2
+LOC106873279_intron nascent polypeptide-associated complex subunit alpha, muscle-specific form, transcript variant X3
+LOC106873279_intron nascent polypeptide-associated complex subunit alpha, muscle-specific form, transcript variant X4
+LOC106873280_intron septin-7, transcript variant X1
+LOC106873280_intron septin-7, transcript variant X2
+LOC106873280_intron septin-7, transcript variant X3
+LOC106873280_intron septin-7, transcript variant X4
+LOC106873280_intron septin-7, transcript variant X5
+LOC106873282_intron cytochrome c1, heme protein, mitochondrial, transcript variant X1
+LOC106873282_intron cytochrome c1, heme protein, mitochondrial, transcript variant X2
+LOC106873283_intron centrosomal protein of 83 kDa, transcript variant X1
+LOC106873283_intron centrosomal protein of 83 kDa, transcript variant X2
+LOC106873283_intron centrosomal protein of 83 kDa, transcript variant X3
+LOC106873284_intron uncharacterized LOC106873284, transcript variant X1
+LOC106873284_intron uncharacterized LOC106873284, transcript variant X2
+LOC106873284_intron uncharacterized LOC106873284, transcript variant X3
+LOC106873284_intron uncharacterized LOC106873284, transcript variant X4
+LOC106873284_intron uncharacterized LOC106873284, transcript variant X5
+LOC106873284_intron uncharacterized LOC106873284, transcript variant X6
+LOC106873286_intron uncharacterized LOC106873286
+LOC106873299_intron neuronal acetylcholine receptor subunit alpha-10
+LOC106873356_intron protein strawberry notch homolog 1
+LOC106873358_intron uridine-cytidine kinase 2
+LOC106873359_intron respirasome Complex Assembly Factor 1
+LOC106873407_intron terminal nucleotidyltransferase 4A
+LOC106873415_intron tetratricopeptide repeat protein 28
+LOC106873416_intron CUE domain-containing protein 1, transcript variant X1
+LOC106873416_intron CUE domain-containing protein 1, transcript variant X2
+LOC106873416_intron CUE domain-containing protein 1, transcript variant X3
+LOC106873416_intron CUE domain-containing protein 1, transcript variant X4
+LOC106873416_intron CUE domain-containing protein 1, transcript variant X5
+LOC106873416_intron CUE domain-containing protein 1, transcript variant X6
+LOC106873465_intron sterol regulatory element-binding protein 1
+LOC106873466_intron uncharacterized ENTR1 family protein
+LOC106873467_intron DNA repair protein RAD51 homolog 1
+LOC106873468_intron zinc finger CCHC domain-containing protein 8
+LOC106873471_intron DNA polymerase alpha subunit B, transcript variant X1
+LOC106873471_intron DNA polymerase alpha subunit B, transcript variant X2
+LOC106873471_intron DNA polymerase alpha subunit B, transcript variant X3
+LOC106873471_intron DNA polymerase alpha subunit B, transcript variant X4
+LOC106873471_intron DNA polymerase alpha subunit B, transcript variant X5
+LOC106873471_intron DNA polymerase alpha subunit B, transcript variant X6
+LOC106873472_intron sequestosome-1
+LOC106873594_intron low-density lipoprotein receptor-related protein 6, transcript variant X1
+LOC106873594_intron low-density lipoprotein receptor-related protein 6, transcript variant X2
+LOC106873595_intron uncharacterized LOC106873595, transcript variant X1
+LOC106873595_intron uncharacterized LOC106873595, transcript variant X2
+LOC106873595_intron uncharacterized LOC106873595, transcript variant X3
+LOC106873821_intron zinc metalloproteinase nas-14
+LOC106873822_intron glycosaminoglycan xylosylkinase, transcript variant X1
+LOC106873822_intron glycosaminoglycan xylosylkinase, transcript variant X2
+LOC106873822_intron glycosaminoglycan xylosylkinase, transcript variant X3
+LOC106873822_intron glycosaminoglycan xylosylkinase, transcript variant X4
+LOC106873834_intron serine/threonine-protein phosphatase 4 regulatory subunit 1, transcript variant X1
+LOC106873834_intron serine/threonine-protein phosphatase 4 regulatory subunit 1, transcript variant X2
+LOC106873864_intron ATP synthase mitochondrial F1 complex assembly factor 2
+LOC106873867_intron glucose-induced degradation protein 4 homolog, transcript variant X1
+LOC106873867_intron glucose-induced degradation protein 4 homolog, transcript variant X2
+LOC106873867_intron glucose-induced degradation protein 4 homolog, transcript variant X3
+LOC106873867_intron glucose-induced degradation protein 4 homolog, transcript variant X4
+LOC106873867_intron glucose-induced degradation protein 4 homolog, transcript variant X5
+LOC106873867_intron glucose-induced degradation protein 4 homolog, transcript variant X6
+LOC106873868_intron SUMO-activating enzyme subunit 2
+LOC106874017_intron uncharacterized LOC106874017
+LOC106874018_intron proteasome subunit beta type-5
+LOC106874019_intron CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial, transcript variant X1
+LOC106874019_intron CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial, transcript variant X2
+LOC106874019_intron CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial, transcript variant X3
+LOC106874019_intron CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial, transcript variant X4
+LOC106874050_intron ER degradation-enhancing alpha-mannosidase-like protein 3, transcript variant X1
+LOC106874050_intron ER degradation-enhancing alpha-mannosidase-like protein 3, transcript variant X2
+LOC106874050_intron ER degradation-enhancing alpha-mannosidase-like protein 3, transcript variant X3
+LOC106874088_intron globin-like
+LOC106874194_intron calbindin-32
+LOC106874195_intron serine/threonine-protein kinase A-Raf
+LOC106874199_intron vacuolar protein sorting-associated protein 35, transcript variant X1
+LOC106874199_intron vacuolar protein sorting-associated protein 35, transcript variant X2
+LOC106874200_intron protein SHQ1 homolog, transcript variant X1
+LOC106874200_intron protein SHQ1 homolog, transcript variant X2
+LOC106874200_intron protein SHQ1 homolog, transcript variant X3
+LOC106874200_intron protein SHQ1 homolog, transcript variant X4
+LOC106874201_intron borealin
+LOC106874202_intron uncharacterized LOC106874202
+LOC106874203_intron uncharacterized LOC106874203
+LOC106874205_intron inactive selenide, water dikinase-like protein
+LOC106874217_intron histone-lysine N-methyltransferase EZH2
+LOC106874231_intron thioredoxin domain-containing protein 16
+LOC106874232_intron anillin
+LOC106874233_intron uncharacterized LOC106874233, transcript variant X1
+LOC106874233_intron uncharacterized LOC106874233, transcript variant X2
+LOC106874233_intron uncharacterized LOC106874233, transcript variant X3
+LOC106874233_intron uncharacterized LOC106874233, transcript variant X4
+LOC106874233_intron uncharacterized LOC106874233, transcript variant X5
+LOC106874233_intron uncharacterized LOC106874233, transcript variant X6
+LOC106874234_intron trifunctional nucleotide phosphoesterase protein YfkN
+LOC106874235_intron uncharacterized LOC106874235, transcript variant X1
+LOC106874235_intron uncharacterized LOC106874235, transcript variant X2
+LOC106874238_intron fatty acid synthase, transcript variant X1
+LOC106874238_intron fatty acid synthase, transcript variant X2
+LOC106874238_intron fatty acid synthase, transcript variant X3
+LOC106874239_intron uncharacterized LOC106874239, transcript variant X1
+LOC106874239_intron uncharacterized LOC106874239, transcript variant X2
+LOC106874252_intron heparan sulfate 2-O-sulfotransferase 1
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X1
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X2
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X3
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X4
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X5
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X6
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X7
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X8
+LOC106874257_intron pre-B-cell leukemia transcription factor 1, transcript variant X9
+LOC106874361_intron zinc finger protein 391
+LOC106874363_intron uncharacterized LOC106874363, transcript variant X1
+LOC106874363_intron uncharacterized LOC106874363, transcript variant X2
+LOC106874363_intron uncharacterized LOC106874363, transcript variant X3
+LOC106874363_intron uncharacterized LOC106874363, transcript variant X4
+LOC106874364_intron rab3 GTPase-activating protein catalytic subunit
+LOC106874365_intron gamma-aminobutyric acid receptor-associated protein-like 2
+LOC106874367_intron uncharacterized LOC106874367
+LOC106874368_intron thymidine kinase 2, mitochondrial
+LOC106874370_intron dehydrogenase/reductase SDR family member 4, transcript variant X1
+LOC106874370_intron dehydrogenase/reductase SDR family member 4, transcript variant X2
+LOC106874372_intron N-acetylglucosamine-1-phosphotransferase subunit gamma, transcript variant X1
+LOC106874372_intron N-acetylglucosamine-1-phosphotransferase subunit gamma, transcript variant X2
+LOC106874373_intron charged multivesicular body protein 4c, transcript variant X1
+LOC106874373_intron charged multivesicular body protein 4c, transcript variant X2
+LOC106874461_intron ER degradation-enhancing alpha-mannosidase-like protein 3
+LOC106874520_intron neuronal acetylcholine receptor subunit alpha-5
+LOC106874521_intron uncharacterized LOC106874521
+LOC106874522_intron serine/threonine-protein phosphatase 2B catalytic subunit 3, transcript variant X1
+LOC106874522_intron serine/threonine-protein phosphatase 2B catalytic subunit 3, transcript variant X2
+LOC106874522_intron serine/threonine-protein phosphatase 2B catalytic subunit 3, transcript variant X3
+LOC106874523_intron coiled-coil domain-containing protein 18, transcript variant X1
+LOC106874523_intron coiled-coil domain-containing protein 18, transcript variant X2
+LOC106874523_intron coiled-coil domain-containing protein 18, transcript variant X3
+LOC106874523_intron coiled-coil domain-containing protein 18, transcript variant X4
+LOC106874523_intron coiled-coil domain-containing protein 18, transcript variant X5
+LOC106874525_intron syntaxin-binding protein 1, transcript variant X1
+LOC106874525_intron syntaxin-binding protein 1, transcript variant X2
+LOC106874534_intron calcitonin receptor
+LOC106874535_intron uncharacterized LOC106874535
+LOC106874562_intron negative elongation factor B
+LOC106874563_intron breast cancer anti-estrogen resistance protein 3 homolog, transcript variant X1
+LOC106874563_intron breast cancer anti-estrogen resistance protein 3 homolog, transcript variant X2
+LOC106874563_intron breast cancer anti-estrogen resistance protein 3 homolog, transcript variant X3
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X1
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X10
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X2
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X3
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X4
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X5
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X6
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X7
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X8
+LOC106874564_intron uncharacterized LOC106874564, transcript variant X9
+LOC106874637_intron E3 ubiquitin-protein ligase MARCHF6
+LOC106874648_intron transforming growth factor beta receptor type 3, transcript variant X1
+LOC106874648_intron transforming growth factor beta receptor type 3, transcript variant X2
+LOC106874648_intron transforming growth factor beta receptor type 3, transcript variant X3
+LOC106874666_intron malonate--CoA ligase ACSF3, mitochondrial
+LOC106874669_intron kelch-like protein 9
+LOC106874670_intron transcription factor 25
+LOC106874673_intron protein-associating with the carboxyl-terminal domain of ezrin
+LOC106874674_intron phytanoyl-CoA dioxygenase, peroxisomal, transcript variant X1
+LOC106874674_intron phytanoyl-CoA dioxygenase, peroxisomal, transcript variant X2
+LOC106874674_intron phytanoyl-CoA dioxygenase, peroxisomal, transcript variant X3
+LOC106874674_intron phytanoyl-CoA dioxygenase, peroxisomal, transcript variant X4
+LOC106874674_intron phytanoyl-CoA dioxygenase, peroxisomal, transcript variant X5
+LOC106874675_intron tRNA-specific adenosine deaminase 1, transcript variant X1
+LOC106874675_intron tRNA-specific adenosine deaminase 1, transcript variant X2
+LOC106874675_intron tRNA-specific adenosine deaminase 1, transcript variant X3
+LOC106874901_intron GPI transamidase component PIG-T
+LOC106874902_intron uncharacterized LOC106874902, transcript variant X1
+LOC106874902_intron uncharacterized LOC106874902, transcript variant X2
+LOC106874903_intron transmembrane protein 64
+LOC106874904_intron zinc finger protein 345
+LOC106874906_intron EGFR adapter protein
+LOC106874907_intron C5a anaphylatoxin chemotactic receptor 1
+LOC106874914_intron ras-related protein Rab-22A, transcript variant X1
+LOC106874914_intron ras-related protein Rab-22A, transcript variant X2
+LOC106874915_intron transmembrane protein 164, transcript variant X1
+LOC106874915_intron transmembrane protein 164, transcript variant X2
+LOC106874915_intron transmembrane protein 164, transcript variant X3
+LOC106874942_intron differentially expressed in FDCP 8
+LOC106874943_intron neo-calmodulin
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X1
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X2
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X3
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X4
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X5
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X6
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X7
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X8
+LOC106874944_intron uncharacterized LOC106874944, transcript variant X9
+LOC106874945_intron probable G-protein coupled receptor B0563.6
+LOC106874947_intron ribosome biogenesis protein bop1-B
+LOC106874948_intron progesterone-induced-blocking factor 1
+LOC106874949_intron chloride channel protein D, transcript variant X1
+LOC106874949_intron chloride channel protein D, transcript variant X2
+LOC106875017_intron derlin-2
+LOC106875018_intron ubiquitin-conjugating enzyme E2 L3
+LOC106875216_intron sodium- and chloride-dependent taurine transporter
+LOC106875218_intron notchless protein homolog 1
+LOC106875219_intron 39S ribosomal protein L18, mitochondrial, transcript variant X1
+LOC106875219_intron 39S ribosomal protein L18, mitochondrial, transcript variant X2
+LOC106875241_intron uncharacterized LOC106875241
+LOC106875274_intron zinc finger MYM-type protein 6
+LOC106875275_intron uncharacterized LOC106875275
+LOC106875277_intron cytochrome c oxidase subunit 6B1
+LOC106875279_intron uncharacterized LOC106875279
+LOC106875280_intron uncharacterized LOC106875280
+LOC106875281_intron cilia- and flagella-associated protein 157
+LOC106875283_intron calcium-independent phospholipase A2-gamma
+LOC106875284_intron F-box/WD repeat-containing protein 5, transcript variant X1
+LOC106875284_intron F-box/WD repeat-containing protein 5, transcript variant X2
+LOC106875284_intron F-box/WD repeat-containing protein 5, transcript variant X3
+LOC106875284_intron F-box/WD repeat-containing protein 5, transcript variant X4
+LOC106875285_intron endonuclease/exonuclease/phosphatase family domain-containing protein 1, transcript variant X1
+LOC106875285_intron endonuclease/exonuclease/phosphatase family domain-containing protein 1, transcript variant X2
+LOC106875285_intron endonuclease/exonuclease/phosphatase family domain-containing protein 1, transcript variant X3
+LOC106875347_intron uncharacterized LOC106875347
+LOC106875349_intron tetratricopeptide repeat protein 29, transcript variant X1
+LOC106875349_intron tetratricopeptide repeat protein 29, transcript variant X2
+LOC106875349_intron tetratricopeptide repeat protein 29, transcript variant X3
+LOC106875349_intron tetratricopeptide repeat protein 29, transcript variant X4
+LOC106875349_intron tetratricopeptide repeat protein 29, transcript variant X5
+LOC106875350_intron protein escargot
+LOC106875351_intron derlin-1
+LOC106875354_intron protein BUD31 homolog
+LOC106875355_intron GMP reductase 2
+LOC106875623_intron solute carrier family 23 member 1, transcript variant X1
+LOC106875623_intron solute carrier family 23 member 1, transcript variant X2
+LOC106875623_intron solute carrier family 23 member 1, transcript variant X3
+LOC106875683_intron transcription factor hamlet, transcript variant X1
+LOC106875683_intron transcription factor hamlet, transcript variant X2
+LOC106875683_intron transcription factor hamlet, transcript variant X3
+LOC106875684_intron integrin beta-1
+LOC106875686_intron uncharacterized LOC106875686
+LOC106875810_intron rabphilin-3A, transcript variant X1
+LOC106875810_intron rabphilin-3A, transcript variant X2
+LOC106875810_intron rabphilin-3A, transcript variant X3
+LOC106875810_intron rabphilin-3A, transcript variant X4
+LOC106875810_intron rabphilin-3A, transcript variant X5
+LOC106875810_intron rabphilin-3A, transcript variant X6
+LOC106875810_intron rabphilin-3A, transcript variant X7
+LOC106875811_intron PRELI domain containing protein 3B
+LOC106875832_intron TBC1 domain family member 31
+LOC106875833_intron TBC1 domain family member 13, transcript variant X1
+LOC106875833_intron TBC1 domain family member 13, transcript variant X2
+LOC106875834_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X1
+LOC106875834_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X2
+LOC106875834_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X3
+LOC106875834_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X4
+LOC106875834_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X5
+LOC106875834_intron protein-glutamine gamma-glutamyltransferase K, transcript variant X6
+LOC106875836_intron TBC1 domain family member 5 homolog A
+LOC106875837_intron uncharacterized LOC106875837, transcript variant X1
+LOC106875837_intron uncharacterized LOC106875837, transcript variant X2
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X1
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X2
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X3
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X4
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X5
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X6
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X7
+LOC106875876_intron tigger transposable element-derived protein 1-like, transcript variant X8
+LOC106875923_intron dopamine beta-hydroxylase
+LOC106875925_intron uncharacterized LOC106875925
+LOC106875960_intron transmembrane protein 248
+LOC106875968_intron nose resistant to fluoxetine protein 6
+LOC106875970_intron uncharacterized LOC106875970
+LOC106875971_intron uncharacterized LOC106875971
+LOC106875989_intron CD109 antigen
+LOC106875990_intron DNA-(apurinic or apyrimidinic site) endonuclease 2
+LOC106875991_intron ubiquitin-like protein 4A
+LOC106875993_intron UDP-galactose translocator, transcript variant X1
+LOC106875993_intron UDP-galactose translocator, transcript variant X2
+LOC106875993_intron UDP-galactose translocator, transcript variant X3
+LOC106875993_intron UDP-galactose translocator, transcript variant X4
+LOC106875993_intron UDP-galactose translocator, transcript variant X5
+LOC106875993_intron UDP-galactose translocator, transcript variant X6
+LOC106875993_intron UDP-galactose translocator, transcript variant X7
+LOC106875993_intron UDP-galactose translocator, transcript variant X8
+LOC106875993_intron UDP-galactose translocator, transcript variant X9
+LOC106875995_intron peptidyl-prolyl cis-trans isomerase B
+LOC106875996_intron cytosolic 10-formyltetrahydrofolate dehydrogenase-like
+LOC106875997_intron synaptic vesicle membrane protein VAT-1 homolog-like, transcript variant X1
+LOC106875997_intron synaptic vesicle membrane protein VAT-1 homolog-like, transcript variant X2
+LOC106875997_intron synaptic vesicle membrane protein VAT-1 homolog-like, transcript variant X3
+LOC106875997_intron synaptic vesicle membrane protein VAT-1 homolog-like, transcript variant X4
+LOC106876015_intron carboxypeptidase A2
+LOC106876016_intron U-scoloptoxin(05)-Sm1a, transcript variant X1
+LOC106876016_intron U-scoloptoxin(05)-Sm1a, transcript variant X2
+LOC106876017_intron uncharacterized LOC106876017
+LOC106876018_intron chitinase-3-like protein 1, transcript variant X1
+LOC106876018_intron chitinase-3-like protein 1, transcript variant X2
+LOC106876021_intron uncharacterized LOC106876021, transcript variant X1
+LOC106876021_intron uncharacterized LOC106876021, transcript variant X2
+LOC106876021_intron uncharacterized LOC106876021, transcript variant X3
+LOC106876021_intron uncharacterized LOC106876021, transcript variant X4
+LOC106876022_intron dynein axonemal heavy chain 10, transcript variant X1
+LOC106876022_intron dynein axonemal heavy chain 10, transcript variant X2
+LOC106876024_intron patatin-like phospholipase domain-containing protein 7
+LOC106876025_intron aspartate beta-hydroxylase domain-containing protein 2
+LOC106876027_intron coiled-coil domain-containing protein 157
+LOC106876172_intron uncharacterized LOC106876172
+LOC106876173_intron microprocessor complex subunit DGCR8
+LOC106876174_intron SREBP regulating gene protein
+LOC106876175_intron uncharacterized LOC106876175
+LOC106876176_intron protein HGH1 homolog
+LOC106876177_intron uncharacterized LOC106876177
+LOC106876178_intron DNA repair protein RAD50, transcript variant X1
+LOC106876178_intron DNA repair protein RAD50, transcript variant X2
+LOC106876178_intron DNA repair protein RAD50, transcript variant X3
+LOC106876178_intron DNA repair protein RAD50, transcript variant X4
+LOC106876178_intron DNA repair protein RAD50, transcript variant X5
+LOC106876178_intron DNA repair protein RAD50, transcript variant X6
+LOC106876178_intron DNA repair protein RAD50, transcript variant X7
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X1
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X10
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X2
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X3
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X4
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X5
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X6
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X7
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X8
+LOC106876180_intron TWiK family of potassium channels protein 18, transcript variant X9
+LOC106876270_intron uncharacterized LOC106876270
+LOC106876271_intron uncharacterized LOC106876271
+LOC106876273_intron serine-rich adhesin for platelets, transcript variant X1
+LOC106876273_intron serine-rich adhesin for platelets, transcript variant X2
+LOC106876273_intron serine-rich adhesin for platelets, transcript variant X3
+LOC106876274_intron EGF domain-specific O-linked N-acetylglucosamine transferase, transcript variant X1
+LOC106876274_intron EGF domain-specific O-linked N-acetylglucosamine transferase, transcript variant X2
+LOC106876319_intron phosphatidylcholine translocator ABCB4-like
+LOC106876322_intron ATP-binding cassette sub-family C member 10, transcript variant X1
+LOC106876322_intron ATP-binding cassette sub-family C member 10, transcript variant X2
+LOC106876322_intron ATP-binding cassette sub-family C member 10, transcript variant X3
+LOC106876322_intron ATP-binding cassette sub-family C member 10, transcript variant X4
+LOC106876323_intron uncharacterized LOC106876323
+LOC106876324_intron cell division cycle-associated protein 7
+LOC106876325_intron calpain-7
+LOC106876326_intron lanC-like protein 2
+LOC106876327_intron uncharacterized LOC106876327
+LOC106876345_intron uncharacterized LOC106876345
+LOC106876346_intron uncharacterized LOC106876346
+LOC106876453_intron dynein beta chain, ciliary, transcript variant X1
+LOC106876453_intron dynein beta chain, ciliary, transcript variant X2
+LOC106876453_intron dynein beta chain, ciliary, transcript variant X3
+LOC106876508_intron translationally-controlled tumor protein homolog
+LOC106876580_intron glutamate receptor 2, transcript variant X1
+LOC106876580_intron glutamate receptor 2, transcript variant X2
+LOC106876580_intron glutamate receptor 2, transcript variant X3
+LOC106876580_intron glutamate receptor 2, transcript variant X4
+LOC106876581_intron uncharacterized LOC106876581
+LOC106876826_intron interleukin 17-like protein
+LOC106876827_intron interleukin 17-like protein
+LOC106876833_intron nephrocystin-3
+LOC106876842_intron LIM/homeobox protein Lhx9, transcript variant X1
+LOC106876842_intron LIM/homeobox protein Lhx9, transcript variant X2
+LOC106876842_intron LIM/homeobox protein Lhx9, transcript variant X3
+LOC106876842_intron LIM/homeobox protein Lhx9, transcript variant X4
+LOC106876842_intron LIM/homeobox protein Lhx9, transcript variant X5
+LOC106876867_intron A disintegrin and metalloproteinase with thrombospondin motifs 16
+LOC106876872_intron RING finger and SPRY domain-containing protein 1
+LOC106876874_intron uncharacterized LOC106876874, transcript variant X1
+LOC106876874_intron uncharacterized LOC106876874, transcript variant X2
+LOC106876875_intron MOG interacting and ectopic P-granules protein 1, transcript variant X1
+LOC106876877_intron uncharacterized LOC106876877, transcript variant X1
+LOC106876877_intron uncharacterized LOC106876877, transcript variant X2
+LOC106876929_intron uncharacterized LOC106876929, transcript variant X1
+LOC106876929_intron uncharacterized LOC106876929, transcript variant X2
+LOC106877080_intron transcriptional adapter 2-beta, transcript variant X1
+LOC106877080_intron transcriptional adapter 2-beta, transcript variant X2
+LOC106877080_intron transcriptional adapter 2-beta, transcript variant X3
+LOC106877080_intron transcriptional adapter 2-beta, transcript variant X4
+LOC106877080_intron transcriptional adapter 2-beta, transcript variant X5
+LOC106877080_intron transcriptional adapter 2-beta, transcript variant X6
+LOC106877081_intron uncharacterized LOC106877081
+LOC106877083_intron uncharacterized LOC106877083
+LOC106877085_intron sterol O-acyltransferase 1, transcript variant X1
+LOC106877085_intron sterol O-acyltransferase 1, transcript variant X2
+LOC106877086_intron uncharacterized LOC106877086, transcript variant X1
+LOC106877086_intron uncharacterized LOC106877086, transcript variant X2
+LOC106877087_intron uncharacterized LOC106877087, transcript variant X1
+LOC106877087_intron uncharacterized LOC106877087, transcript variant X2
+LOC106877087_intron uncharacterized LOC106877087, transcript variant X3
+LOC106877087_intron uncharacterized LOC106877087, transcript variant X4
+LOC106877088_intron uncharacterized LOC106877088
+LOC106877089_intron toll-like receptor Tollo, transcript variant X1
+LOC106877089_intron toll-like receptor Tollo, transcript variant X3
+LOC106877089_intron toll-like receptor Tollo, transcript variant X4
+LOC106877310_intron uncharacterized LOC106877310, transcript variant X1
+LOC106877310_intron uncharacterized LOC106877310, transcript variant X2
+LOC106877310_intron uncharacterized LOC106877310, transcript variant X3
+LOC106877310_intron uncharacterized LOC106877310, transcript variant X4
+LOC106877463_intron uncharacterized LOC106877463, transcript variant X1
+LOC106877463_intron uncharacterized LOC106877463, transcript variant X2
+LOC106877463_intron uncharacterized LOC106877463, transcript variant X3
+LOC106877501_intron uncharacterized LOC106877501
+LOC106877502_intron uncharacterized LOC106877502
+LOC106877504_intron flotillin-1, transcript variant X1
+LOC106877504_intron flotillin-1, transcript variant X2
+LOC106877504_intron flotillin-1, transcript variant X3
+LOC106877504_intron flotillin-1, transcript variant X4
+LOC106877504_intron flotillin-1, transcript variant X5
+LOC106877628_intron early endosome antigen 1, transcript variant X1
+LOC106877628_intron early endosome antigen 1, transcript variant X2
+LOC106877628_intron early endosome antigen 1, transcript variant X3
+LOC106877628_intron early endosome antigen 1, transcript variant X4
+LOC106877628_intron early endosome antigen 1, transcript variant X5
+LOC106877637_intron uncharacterized LOC106877637, transcript variant X1
+LOC106877637_intron uncharacterized LOC106877637, transcript variant X2
+LOC106877640_intron uncharacterized LOC106877640
+LOC106877749_intron beta-1,3-galactosyltransferase 1, transcript variant X1
+LOC106877749_intron beta-1,3-galactosyltransferase 1, transcript variant X2
+LOC106877749_intron beta-1,3-galactosyltransferase 1, transcript variant X3
+LOC106877749_intron beta-1,3-galactosyltransferase 1, transcript variant X4
+LOC106877850_intron FMRFamide receptor, transcript variant X1
+LOC106877850_intron FMRFamide receptor, transcript variant X2
+LOC106877850_intron FMRFamide receptor, transcript variant X3
+LOC106877850_intron FMRFamide receptor, transcript variant X4
+LOC106877850_intron FMRFamide receptor, transcript variant X5
+LOC106877851_intron uncharacterized LOC106877851
+LOC106877864_intron COP9 signalosome complex subunit 1, transcript variant X1
+LOC106877864_intron COP9 signalosome complex subunit 1, transcript variant X2
+LOC106877864_intron COP9 signalosome complex subunit 1, transcript variant X3
+LOC106877864_intron COP9 signalosome complex subunit 1, transcript variant X4
+LOC106877864_intron COP9 signalosome complex subunit 1, transcript variant X5
+LOC106877864_intron COP9 signalosome complex subunit 1, transcript variant X6
+LOC106877895_intron T-box transcription factor TBX10
+LOC106877988_intron multiple epidermal growth factor-like domains protein 8
+LOC106878028_intron nose resistant to fluoxetine protein 6, transcript variant X1
+LOC106878028_intron nose resistant to fluoxetine protein 6, transcript variant X2
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X1
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X10
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X11
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X12
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X2
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X3
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X4
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X5
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X6
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X7
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X8
+LOC106878029_intron solute carrier family 66 member 2, transcript variant X9
+LOC106878032_intron F-box only protein 31-A, transcript variant X1
+LOC106878032_intron F-box only protein 31-A, transcript variant X2
+LOC106878053_intron transmembrane protein 131
+LOC106878065_intron conserved regulator of innate immunity protein 3
+LOC106878066_intron chromatin assembly factor 1 subunit B
+LOC106878069_intron acetoacetyl-CoA synthetase
+LOC106878070_intron endoplasmic reticulum resident protein 29
+LOC106878071_intron uncharacterized LOC106878071, transcript variant X1
+LOC106878071_intron uncharacterized LOC106878071, transcript variant X2
+LOC106878071_intron uncharacterized LOC106878071, transcript variant X3
+LOC106878071_intron uncharacterized LOC106878071, transcript variant X4
+LOC106878071_intron uncharacterized LOC106878071, transcript variant X5
+LOC106878075_intron uncharacterized LOC106878075, transcript variant X1
+LOC106878075_intron uncharacterized LOC106878075, transcript variant X2
+LOC106878076_intron uncharacterized LOC106878076
+LOC106878077_intron uncharacterized LOC106878077, transcript variant X1
+LOC106878077_intron uncharacterized LOC106878077, transcript variant X2
+LOC106878077_intron uncharacterized LOC106878077, transcript variant X3
+LOC106878077_intron uncharacterized LOC106878077, transcript variant X4
+LOC106878077_intron uncharacterized LOC106878077, transcript variant X5
+LOC106878078_intron aminoacylase-1, transcript variant X1
+LOC106878078_intron aminoacylase-1, transcript variant X2
+LOC106878101_intron kelch-like protein 20
+LOC106878108_intron queuosine salvage protein, transcript variant X1
+LOC106878108_intron queuosine salvage protein, transcript variant X2
+LOC106878108_intron queuosine salvage protein, transcript variant X3
+LOC106878108_intron queuosine salvage protein, transcript variant X4
+LOC106878142_intron RILP-like protein 1, transcript variant X1
+LOC106878142_intron RILP-like protein 1, transcript variant X2
+LOC106878142_intron RILP-like protein 1, transcript variant X3
+LOC106878161_intron uncharacterized LOC106878161
+LOC106878188_intron uncharacterized LOC106878188
+LOC106878189_intron uncharacterized LOC106878189
+LOC106878190_intron kelch domain-containing protein 8A, transcript variant X1
+LOC106878190_intron kelch domain-containing protein 8A, transcript variant X2
+LOC106878190_intron kelch domain-containing protein 8A, transcript variant X3
+LOC106878190_intron kelch domain-containing protein 8A, transcript variant X4
+LOC106878190_intron kelch domain-containing protein 8A, transcript variant X5
+LOC106878190_intron kelch domain-containing protein 8A, transcript variant X6
+LOC106878230_intron ecdysone receptor, transcript variant X1
+LOC106878230_intron ecdysone receptor, transcript variant X2
+LOC106878230_intron ecdysone receptor, transcript variant X3
+LOC106878230_intron ecdysone receptor, transcript variant X4
+LOC106878230_intron ecdysone receptor, transcript variant X5
+LOC106878258_intron nucleolar MIF4G domain-containing protein 1, transcript variant X1
+LOC106878258_intron nucleolar MIF4G domain-containing protein 1, transcript variant X2
+LOC106878267_intron integrin beta-PS, transcript variant X1
+LOC106878267_intron integrin beta-PS, transcript variant X2
+LOC106878267_intron integrin beta-PS, transcript variant X3
+LOC106878269_intron sugar transporter SWEET1, transcript variant X1
+LOC106878269_intron sugar transporter SWEET1, transcript variant X2
+LOC106878273_intron folylpolyglutamate synthase, mitochondrial, transcript variant X1
+LOC106878273_intron folylpolyglutamate synthase, mitochondrial, transcript variant X2
+LOC106878508_intron short transient receptor potential channel 7
+LOC106878510_intron sodium-dependent multivitamin transporter
+LOC106878512_intron sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1
+LOC106878543_intron protein-glutamine gamma-glutamyltransferase K
+LOC106878687_intron dolichyldiphosphatase 1
+LOC106878724_intron folylpolyglutamate synthase, mitochondrial, transcript variant X1
+LOC106878724_intron folylpolyglutamate synthase, mitochondrial, transcript variant X2
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X1
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X10
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X11
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X2
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X3
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X4
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X5
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X6
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X7
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X8
+LOC106878725_intron potassium channel subfamily T member 2, transcript variant X9
+LOC106878928_intron N-acylglucosamine 2-epimerase
+LOC106878929_intron uncharacterized LOC106878929
+LOC106878930_intron uncharacterized LOC106878930, transcript variant X1
+LOC106878930_intron uncharacterized LOC106878930, transcript variant X2
+LOC106878931_intron sodium/hydrogen exchanger 8
+LOC106878932_intron phosphatidylinositol-3-phosphatase SAC1
+LOC106878933_intron kinesin-like protein KIF14
+LOC106878934_intron CKLF-like MARVEL transmembrane domain-containing protein 7, transcript variant X1
+LOC106878934_intron CKLF-like MARVEL transmembrane domain-containing protein 7, transcript variant X2
+LOC106878934_intron CKLF-like MARVEL transmembrane domain-containing protein 7, transcript variant X3
+LOC106878934_intron CKLF-like MARVEL transmembrane domain-containing protein 7, transcript variant X4
+LOC106878935_intron Golgi apparatus protein 1
+LOC106878936_intron E3 ubiquitin-protein ligase TRIM36
+LOC106878937_intron DNA replication ATP-dependent helicase/nuclease DNA2
+LOC106878938_intron sedoheptulokinase
+LOC106878939_intron N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2, transcript variant X1
+LOC106878939_intron N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2, transcript variant X2
+LOC106878940_intron PX domain-containing protein kinase-like protein
+LOC106878941_intron N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2, transcript variant X1
+LOC106878941_intron N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2, transcript variant X2
+LOC106878941_intron N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2, transcript variant X3
+LOC106878941_intron N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2, transcript variant X4
+LOC106878977_intron neuroglian
+LOC106878978_intron protein Jumonji, transcript variant X1
+LOC106878978_intron protein Jumonji, transcript variant X2
+LOC106878978_intron protein Jumonji, transcript variant X3
+LOC106878978_intron protein Jumonji, transcript variant X4
+LOC106879034_intron ubiquitin carboxyl-terminal hydrolase 47, transcript variant X1
+LOC106879034_intron ubiquitin carboxyl-terminal hydrolase 47, transcript variant X2
+LOC106879034_intron ubiquitin carboxyl-terminal hydrolase 47, transcript variant X3
+LOC106879036_intron uncharacterized LOC106879036, transcript variant X1
+LOC106879036_intron uncharacterized LOC106879036, transcript variant X2
+LOC106879036_intron uncharacterized LOC106879036, transcript variant X3
+LOC106879036_intron uncharacterized LOC106879036, transcript variant X4
+LOC106879036_intron uncharacterized LOC106879036, transcript variant X5
+LOC106879036_intron uncharacterized LOC106879036, transcript variant X6
+LOC106879038_intron FAD-dependent oxidoreductase domain-containing protein 2, transcript variant X1
+LOC106879038_intron FAD-dependent oxidoreductase domain-containing protein 2, transcript variant X2
+LOC106879038_intron FAD-dependent oxidoreductase domain-containing protein 2, transcript variant X3
+LOC106879039_intron aminopeptidase NAALADL1, transcript variant X1
+LOC106879039_intron aminopeptidase NAALADL1, transcript variant X2
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X1
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X2
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X3
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X4
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X5
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X6
+LOC106879265_intron serine/threonine-protein kinase OSR1, transcript variant X7
+LOC106879277_intron lon protease homolog 2, peroxisomal, transcript variant X1
+LOC106879277_intron lon protease homolog 2, peroxisomal, transcript variant X2
+LOC106879279_intron shiftless antiviral inhibitor of ribosomal frameshifting protein homolog
+LOC106879280_intron probable imidazolonepropionase, transcript variant X1
+LOC106879280_intron probable imidazolonepropionase, transcript variant X2
+LOC106879367_intron cysteine-rich venom protein
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X1
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X10
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X11
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X12
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X13
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X14
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X15
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X2
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X3
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X4
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X5
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X6
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X7
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X8
+LOC106879466_intron uncharacterized LOC106879466, transcript variant X9
+LOC106879468_intron synaptotagmin-1, transcript variant X1
+LOC106879468_intron synaptotagmin-1, transcript variant X2
+LOC106879468_intron synaptotagmin-1, transcript variant X3
+LOC106879539_intron T-box protein VegT-B, transcript variant X1
+LOC106879539_intron T-box protein VegT-B, transcript variant X2
+LOC106879613_intron uncharacterized LOC106879613, transcript variant X1
+LOC106879613_intron uncharacterized LOC106879613, transcript variant X2
+LOC106879613_intron uncharacterized LOC106879613, transcript variant X3
+LOC106879613_intron uncharacterized LOC106879613, transcript variant X4
+LOC106879634_intron uncharacterized LOC106879634, transcript variant X1
+LOC106879634_intron uncharacterized LOC106879634, transcript variant X2
+LOC106879638_intron carnitine O-acetyltransferase
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X1
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X10
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X11
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X12
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X13
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X14
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X15
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X16
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X17
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X18
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X19
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X2
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X20
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X21
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X22
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X23
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X24
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X25
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X26
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X3
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X4
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X5
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X6
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X7
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X8
+LOC106879639_intron TNF receptor-associated factor 2, transcript variant X9
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X1
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X2
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X3
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X4
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X5
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X6
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X7
+LOC106879694_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X8
+LOC106879743_intron LIM/homeobox protein Lhx9, transcript variant X1
+LOC106879743_intron LIM/homeobox protein Lhx9, transcript variant X2
+LOC106879798_intron coiled-coil domain-containing protein 63
+LOC106879808_intron iroquois-class homeodomain protein irx-3
+LOC106879825_intron uncharacterized LOC106879825
+LOC106879882_intron ATPase MORC2, transcript variant X1
+LOC106879882_intron ATPase MORC2, transcript variant X2
+LOC106879882_intron ATPase MORC2, transcript variant X3
+LOC106879882_intron ATPase MORC2, transcript variant X4
+LOC106879882_intron ATPase MORC2, transcript variant X5
+LOC106879882_intron ATPase MORC2, transcript variant X6
+LOC106879884_intron protein CUSTOS-like, transcript variant X1
+LOC106879884_intron protein CUSTOS-like, transcript variant X2
+LOC106879884_intron protein CUSTOS-like, transcript variant X3
+LOC106879964_intron interstitial collagenase, transcript variant X1
+LOC106879964_intron interstitial collagenase, transcript variant X2
+LOC106879985_intron WD repeat-containing protein 46
+LOC106879986_intron cell division cycle 7-related protein kinase
+LOC106880021_intron lysine-specific demethylase 6A, transcript variant X1
+LOC106880021_intron lysine-specific demethylase 6A, transcript variant X2
+LOC106880021_intron lysine-specific demethylase 6A, transcript variant X3
+LOC106880040_intron probable serine/threonine-protein kinase clkA
+LOC106880055_intron F-actin-uncapping protein LRRC16A, transcript variant X1
+LOC106880055_intron F-actin-uncapping protein LRRC16A, transcript variant X2
+LOC106880055_intron F-actin-uncapping protein LRRC16A, transcript variant X3
+LOC106880055_intron F-actin-uncapping protein LRRC16A, transcript variant X4
+LOC106880055_intron F-actin-uncapping protein LRRC16A, transcript variant X5
+LOC106880055_intron F-actin-uncapping protein LRRC16A, transcript variant X6
+LOC106880078_intron uncharacterized LOC106880078, transcript variant X1
+LOC106880078_intron uncharacterized LOC106880078, transcript variant X2
+LOC106880078_intron uncharacterized LOC106880078, transcript variant X3
+LOC106880078_intron uncharacterized LOC106880078, transcript variant X4
+LOC106880095_intron DNA-binding transcriptional regulator BolA
+LOC106880096_intron uncharacterized LOC106880096
+LOC106880097_intron uncharacterized LOC106880097, transcript variant X1
+LOC106880097_intron uncharacterized LOC106880097, transcript variant X2
+LOC106880099_intron uncharacterized LOC106880099, transcript variant X1
+LOC106880099_intron uncharacterized LOC106880099, transcript variant X2
+LOC106880100_intron ubiquitin-protein ligase E3B, transcript variant X1
+LOC106880100_intron ubiquitin-protein ligase E3B, transcript variant X2
+LOC106880102_intron nuclear hormone receptor FTZ-F1 beta
+LOC106880103_intron uncharacterized LOC106880103
+LOC106880113_intron uncharacterized LOC106880113
+LOC106880114_intron general receptor for phosphoinositides 1-associated scaffold protein, transcript variant X1
+LOC106880114_intron general receptor for phosphoinositides 1-associated scaffold protein, transcript variant X2
+LOC106880114_intron general receptor for phosphoinositides 1-associated scaffold protein, transcript variant X3
+LOC106880114_intron general receptor for phosphoinositides 1-associated scaffold protein, transcript variant X4
+LOC106880114_intron general receptor for phosphoinositides 1-associated scaffold protein, transcript variant X5
+LOC106880114_intron general receptor for phosphoinositides 1-associated scaffold protein, transcript variant X6
+LOC106880233_intron uncharacterized LOC106880233
+LOC106880455_intron uncharacterized LOC106880455
+LOC106880457_intron rap guanine nucleotide exchange factor 1, transcript variant X1
+LOC106880457_intron rap guanine nucleotide exchange factor 1, transcript variant X2
+LOC106880457_intron rap guanine nucleotide exchange factor 1, transcript variant X3
+LOC106880457_intron rap guanine nucleotide exchange factor 1, transcript variant X4
+LOC106880457_intron rap guanine nucleotide exchange factor 1, transcript variant X5
+LOC106880457_intron rap guanine nucleotide exchange factor 1, transcript variant X6
+LOC106880570_intron dynein beta chain, ciliary
+LOC106880577_intron uncharacterized LOC106880577
+LOC106880604_intron phosphatidylinositol 3-kinase 2
+LOC106880644_intron uncharacterized LOC106880644, transcript variant X1
+LOC106880644_intron uncharacterized LOC106880644, transcript variant X2
+LOC106880661_intron GATOR complex protein WDR59
+LOC106880662_intron E3 ubiquitin-protein ligase RNF31, transcript variant X1
+LOC106880662_intron E3 ubiquitin-protein ligase RNF31, transcript variant X2
+LOC106880729_intron carbohydrate sulfotransferase 11
+LOC106880822_intron sorting nexin-13, transcript variant X1
+LOC106880822_intron sorting nexin-13, transcript variant X2
+LOC106880822_intron sorting nexin-13, transcript variant X3
+LOC106880822_intron sorting nexin-13, transcript variant X4
+LOC106880822_intron sorting nexin-13, transcript variant X5
+LOC106880824_intron leucine-rich repeat-containing protein 43, transcript variant X1
+LOC106880824_intron leucine-rich repeat-containing protein 43, transcript variant X2
+LOC106880824_intron leucine-rich repeat-containing protein 43, transcript variant X3
+LOC106880824_intron leucine-rich repeat-containing protein 43, transcript variant X4
+LOC106880824_intron leucine-rich repeat-containing protein 43, transcript variant X5
+LOC106880824_intron leucine-rich repeat-containing protein 43, transcript variant X6
+LOC106880882_intron uncharacterized LOC106880882
+LOC106880905_intron uncharacterized LOC106880905
+LOC106880906_intron iron-sulfur protein NUBPL, transcript variant X1
+LOC106880906_intron iron-sulfur protein NUBPL, transcript variant X2
+LOC106880907_intron F-box only protein 38, transcript variant X1
+LOC106880907_intron F-box only protein 38, transcript variant X2
+LOC106880950_intron hydrocephalus-inducing protein
+LOC106880951_intron glutamic acid-rich protein, transcript variant X1
+LOC106880951_intron glutamic acid-rich protein, transcript variant X2
+LOC106880958_intron serine/threonine-protein phosphatase 6 catalytic subunit
+LOC106880973_intron uncharacterized LOC106880973
+LOC106880979_intron nudC domain-containing protein 1
+LOC106880993_intron beta-1-syntrophin
+LOC106880994_intron activator of 90 kDa heat shock protein ATPase homolog 1
+LOC106880995_intron protein kinase C delta type, transcript variant X1
+LOC106880995_intron protein kinase C delta type, transcript variant X2
+LOC106880995_intron protein kinase C delta type, transcript variant X3
+LOC106880995_intron protein kinase C delta type, transcript variant X4
+LOC106880995_intron protein kinase C delta type, transcript variant X5
+LOC106880995_intron protein kinase C delta type, transcript variant X6
+LOC106880995_intron protein kinase C delta type, transcript variant X7
+LOC106880999_intron ankyrin repeat domain-containing protein SOWAHC
+LOC106881001_intron dynein axonemal heavy chain 3
+LOC106881002_intron HMG box-containing protein 1, transcript variant X1
+LOC106881002_intron HMG box-containing protein 1, transcript variant X2
+LOC106881007_intron pre-rRNA-processing protein TSR2 homolog, transcript variant X1
+LOC106881007_intron pre-rRNA-processing protein TSR2 homolog, transcript variant X2
+LOC106881034_intron 18 kDa learning-associated protein of slug-like
+LOC106881035_intron zinc finger protein 423, transcript variant X1
+LOC106881035_intron zinc finger protein 423, transcript variant X2
+LOC106881035_intron zinc finger protein 423, transcript variant X3
+LOC106881036_intron interferon regulatory factor 1, transcript variant X1
+LOC106881036_intron interferon regulatory factor 1, transcript variant X2
+LOC106881036_intron interferon regulatory factor 1, transcript variant X3
+LOC106881036_intron interferon regulatory factor 1, transcript variant X4
+LOC106881036_intron interferon regulatory factor 1, transcript variant X5
+LOC106881036_intron interferon regulatory factor 1, transcript variant X6
+LOC106881036_intron interferon regulatory factor 1, transcript variant X7
+LOC106881111_intron uncharacterized LOC106881111, transcript variant X1
+LOC106881111_intron uncharacterized LOC106881111, transcript variant X2
+LOC106881115_intron interleukin 17-like protein
+LOC106881116_intron interleukin 17-like protein
+LOC106881121_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X1
+LOC106881121_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X2
+LOC106881121_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X3
+LOC106881121_intron neuronal acetylcholine receptor subunit alpha-10, transcript variant X4
+LOC106881122_intron uncharacterized LOC106881122, transcript variant X1
+LOC106881122_intron uncharacterized LOC106881122, transcript variant X2
+LOC106881122_intron uncharacterized LOC106881122, transcript variant X3
+LOC106881134_intron probable 18S rRNA (guanine-N(7))-methyltransferase, transcript variant X1
+LOC106881134_intron probable 18S rRNA (guanine-N(7))-methyltransferase, transcript variant X2
+LOC106881134_intron probable 18S rRNA (guanine-N(7))-methyltransferase, transcript variant X3
+LOC106881135_intron mitogen-activated protein kinase 1
+LOC106881136_intron guanine nucleotide-binding protein-like 3 homolog
+LOC106881140_intron uncharacterized LOC106881140
+LOC106881150_intron pre-mRNA-processing factor 40 homolog A, transcript variant X1
+LOC106881150_intron pre-mRNA-processing factor 40 homolog A, transcript variant X2
+LOC106881150_intron pre-mRNA-processing factor 40 homolog A, transcript variant X3
+LOC106881150_intron pre-mRNA-processing factor 40 homolog A, transcript variant X4
+LOC106881150_intron pre-mRNA-processing factor 40 homolog A, transcript variant X5
+LOC106881150_intron pre-mRNA-processing factor 40 homolog A, transcript variant X6
+LOC106881155_intron uncharacterized LOC106881155, transcript variant X1
+LOC106881155_intron uncharacterized LOC106881155, transcript variant X2
+LOC106881156_intron Wilms tumor protein 1-interacting protein homolog, transcript variant X1
+LOC106881156_intron Wilms tumor protein 1-interacting protein homolog, transcript variant X2
+LOC106881157_intron uncharacterized LOC106881157, transcript variant X2
+LOC106881157_intron uncharacterized LOC106881157, transcript variant X4
+LOC106881193_intron SKI8 subunit of superkiller complex protein
+LOC106881254_intron sodium-independent sulfate anion transporter-like
+LOC106881255_intron paired mesoderm homeobox protein 2, transcript variant X1
+LOC106881255_intron paired mesoderm homeobox protein 2, transcript variant X2
+LOC106881256_intron rhomboid-related protein 2
+LOC106881307_intron parafibromin
+LOC106881378_intron E3 ubiquitin-protein ligase RNF185
+LOC106881379_intron transcription elongation factor SPT6
+LOC106881380_intron mitochondrial import inner membrane translocase subunit Tim22, transcript variant X1
+LOC106881380_intron mitochondrial import inner membrane translocase subunit Tim22, transcript variant X2
+LOC106881380_intron mitochondrial import inner membrane translocase subunit Tim22, transcript variant X3
+LOC106881380_intron mitochondrial import inner membrane translocase subunit Tim22, transcript variant X4
+LOC106881381_intron zinc finger MYND domain-containing protein 19, transcript variant X1
+LOC106881381_intron zinc finger MYND domain-containing protein 19, transcript variant X2
+LOC106881382_intron protein rogdi, transcript variant X1
+LOC106881420_intron protein GPR107
+LOC106881421_intron actin-histidine N-methyltransferase
+LOC106881422_intron nucleoporin NUP188
+LOC106881505_intron uncharacterized LOC106881505
+LOC106881506_intron formin-like protein 3, transcript variant X1
+LOC106881506_intron formin-like protein 3, transcript variant X2
+LOC106881506_intron formin-like protein 3, transcript variant X3
+LOC106881508_intron argininosuccinate synthase
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X1
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X10
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X11
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X12
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X2
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X3
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X4
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X5
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X6
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X7
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X8
+LOC106881656_intron calcium-dependent secretion activator 1, transcript variant X9
+LOC106881736_intron G-protein coupled receptor 83, transcript variant X1
+LOC106881736_intron G-protein coupled receptor 83, transcript variant X2
+LOC106881738_intron macrophage mannose receptor 1
+LOC106881839_intron ADP-ribosylation factor-like protein 6-interacting protein 4, transcript variant X3
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X1
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X10
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X11
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X12
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X13
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X14
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X2
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X3
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X4
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X6
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X7
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X8
+LOC106881849_intron cyclic AMP-responsive element-binding protein 1, transcript variant X9
+LOC106881850_intron uncharacterized LOC106881850, transcript variant X1
+LOC106881850_intron uncharacterized LOC106881850, transcript variant X2
+LOC106881931_intron aquaporin-4
+LOC106881932_intron uncharacterized LOC106881932, transcript variant X1
+LOC106881932_intron uncharacterized LOC106881932, transcript variant X2
+LOC106881933_intron outer dynein arm-docking complex subunit 3
+LOC106881984_intron serine/threonine-protein kinase 36
+LOC106881996_intron vesicle-trafficking protein SEC22b
+LOC106882036_intron protein diaphanous homolog 2
+LOC106882037_intron 2-oxoglutarate and iron-dependent oxygenase domain-containing protein 3, transcript variant X1
+LOC106882037_intron 2-oxoglutarate and iron-dependent oxygenase domain-containing protein 3, transcript variant X2
+LOC106882037_intron 2-oxoglutarate and iron-dependent oxygenase domain-containing protein 3, transcript variant X3
+LOC106882038_intron uncharacterized LOC106882038
+LOC106882154_intron protein lifeguard 4, transcript variant X1
+LOC106882154_intron protein lifeguard 4, transcript variant X2
+LOC106882154_intron protein lifeguard 4, transcript variant X3
+LOC106882154_intron protein lifeguard 4, transcript variant X4
+LOC106882154_intron protein lifeguard 4, transcript variant X5
+LOC106882157_intron protein arginine N-methyltransferase 5
+LOC106882169_intron uncharacterized LOC106882169, transcript variant X1
+LOC106882169_intron uncharacterized LOC106882169, transcript variant X2
+LOC106882189_intron guanine nucleotide-binding protein G(o) subunit alpha, transcript variant X1
+LOC106882189_intron guanine nucleotide-binding protein G(o) subunit alpha, transcript variant X2
+LOC106882193_intron GLIPR1-like protein 2
+LOC106882195_intron putative mediator of RNA polymerase II transcription subunit 26, transcript variant X2
+LOC106882196_intron uncharacterized LOC106882196, transcript variant X1
+LOC106882196_intron uncharacterized LOC106882196, transcript variant X2
+LOC106882196_intron uncharacterized LOC106882196, transcript variant X3
+LOC106882197_intron transmembrane protein 17B, transcript variant X1
+LOC106882197_intron transmembrane protein 17B, transcript variant X2
+LOC106882198_intron probable serine/threonine-protein kinase DDB_G0272282
+LOC106882199_intron uncharacterized LOC106882199, transcript variant X1
+LOC106882199_intron uncharacterized LOC106882199, transcript variant X2
+LOC106882203_intron nuclear receptor coactivator 5, transcript variant X1
+LOC106882203_intron nuclear receptor coactivator 5, transcript variant X2
+LOC106882203_intron nuclear receptor coactivator 5, transcript variant X3
+LOC106882203_intron nuclear receptor coactivator 5, transcript variant X4
+LOC106882203_intron nuclear receptor coactivator 5, transcript variant X5
+LOC106882205_intron E3 ubiquitin-protein ligase RNF123
+LOC106882206_intron uncharacterized LOC106882206
+LOC106882208_intron uncharacterized LOC106882208, transcript variant X4
+LOC106882208_intron uncharacterized LOC106882208, transcript variant X5
+LOC106882230_intron nuclear envelope phosphatase-regulatory subunit 1, transcript variant X1
+LOC106882230_intron nuclear envelope phosphatase-regulatory subunit 1, transcript variant X2
+LOC106882230_intron nuclear envelope phosphatase-regulatory subunit 1, transcript variant X3
+LOC106882230_intron nuclear envelope phosphatase-regulatory subunit 1, transcript variant X4
+LOC106882230_intron nuclear envelope phosphatase-regulatory subunit 1, transcript variant X5
+LOC106882256_intron 3-ketodihydrosphingosine reductase, transcript variant X1
+LOC106882256_intron 3-ketodihydrosphingosine reductase, transcript variant X2
+LOC106882276_intron protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2, transcript variant X1
+LOC106882276_intron protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2, transcript variant X2
+LOC106882276_intron protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2, transcript variant X3
+LOC106882276_intron protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2, transcript variant X4
+LOC106882297_intron cytochrome c oxidase subunit 4 isoform 1, mitochondrial, transcript variant X2
+LOC106882309_intron ribonuclease P protein subunit p29, transcript variant X1
+LOC106882309_intron ribonuclease P protein subunit p29, transcript variant X2
+LOC106882326_intron probable phospholipid-transporting ATPase IIB
+LOC106882382_intron uncharacterized LOC106882382, transcript variant X1
+LOC106882382_intron uncharacterized LOC106882382, transcript variant X2
+LOC106882394_intron nuclear FMR1 interacting protein 1-like, transcript variant X1
+LOC106882394_intron nuclear FMR1 interacting protein 1-like, transcript variant X2
+LOC106882491_intron uncharacterized LOC106882491
+LOC106882492_intron uncharacterized LOC106882492
+LOC106882593_intron CAP-Gly domain-containing linker protein 1
+LOC106882600_intron laminin subunit gamma-1
+LOC106882601_intron dysbindin, transcript variant X1
+LOC106882601_intron dysbindin, transcript variant X2
+LOC106882607_intron signal peptide peptidase-like 3
+LOC106882617_intron CCR4-NOT transcription complex subunit 10, transcript variant X1
+LOC106882617_intron CCR4-NOT transcription complex subunit 10, transcript variant X2
+LOC106882636_intron VPS9 domain-containing protein 1, transcript variant X1
+LOC106882636_intron VPS9 domain-containing protein 1, transcript variant X2
+LOC106882636_intron VPS9 domain-containing protein 1, transcript variant X3
+LOC106882646_intron uncharacterized LOC106882646
+LOC106882781_intron uncharacterized LOC106882781
+LOC106882838_intron alanine--glyoxylate aminotransferase 2, mitochondrial, transcript variant X1
+LOC106882838_intron alanine--glyoxylate aminotransferase 2, mitochondrial, transcript variant X2
+LOC106882841_intron pappalysin-1
+LOC106882842_intron uncharacterized LOC106882842, transcript variant X1
+LOC106882842_intron uncharacterized LOC106882842, transcript variant X2
+LOC106882872_intron lipopolysaccharide-binding protein
+LOC106882873_intron arf-GAP with dual PH domain-containing protein 1
+LOC106882875_intron transmembrane protein 104, transcript variant X1
+LOC106882875_intron transmembrane protein 104, transcript variant X2
+LOC106882875_intron transmembrane protein 104, transcript variant X3
+LOC106882875_intron transmembrane protein 104, transcript variant X4
+LOC106882876_intron N-acetyltransferase 9-like protein
+LOC106883099_intron interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog, transcript variant X1
+LOC106883099_intron interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog, transcript variant X2
+LOC106883099_intron interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog, transcript variant X3
+LOC106883124_intron Bardet-Biedl syndrome 4 protein, transcript variant X1
+LOC106883124_intron Bardet-Biedl syndrome 4 protein, transcript variant X2
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X1
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X2
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X3
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X4
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X5
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X6
+LOC106883135_intron small conductance calcium-activated potassium channel protein 2, transcript variant X7
+LOC106883158_intron uncharacterized LOC106883158
+LOC106883175_intron ruvB-like 1
+LOC106883200_intron differentially expressed in FDCP 8 homolog, transcript variant X1
+LOC106883200_intron differentially expressed in FDCP 8 homolog, transcript variant X2
+LOC106883200_intron differentially expressed in FDCP 8 homolog, transcript variant X3
+LOC106883200_intron differentially expressed in FDCP 8 homolog, transcript variant X4
+LOC106883223_intron uncharacterized LOC106883223, transcript variant X1
+LOC106883223_intron uncharacterized LOC106883223, transcript variant X3
+LOC106883223_intron uncharacterized LOC106883223, transcript variant X4
+LOC106883223_intron uncharacterized LOC106883223, transcript variant X5
+LOC106883256_intron uncharacterized LOC106883256
+LOC106883282_intron serine-rich adhesin for platelets, transcript variant X1
+LOC106883282_intron serine-rich adhesin for platelets, transcript variant X2
+LOC106883305_intron DNA repair-scaffolding protein, transcript variant X1
+LOC106883305_intron DNA repair-scaffolding protein, transcript variant X2
+LOC106883305_intron DNA repair-scaffolding protein, transcript variant X3
+LOC106883305_intron DNA repair-scaffolding protein, transcript variant X4
+LOC106883305_intron DNA repair-scaffolding protein, transcript variant X5
+LOC106883305_intron DNA repair-scaffolding protein, transcript variant X6
+LOC106883319_intron uncharacterized LOC106883319
+LOC106883562_intron chromodomain Y-like protein 2, transcript variant X1
+LOC106883562_intron chromodomain Y-like protein 2, transcript variant X2
+LOC106883562_intron chromodomain Y-like protein 2, transcript variant X3
+LOC106883562_intron chromodomain Y-like protein 2, transcript variant X4
+LOC106883562_intron chromodomain Y-like protein 2, transcript variant X5
+LOC106883562_intron chromodomain Y-like protein 2, transcript variant X6
+LOC106883578_intron GATOR complex protein Iml1, transcript variant X1
+LOC106883578_intron GATOR complex protein Iml1, transcript variant X2
+LOC106883578_intron GATOR complex protein Iml1, transcript variant X3
+LOC106883579_intron ATP-binding cassette sub-family C member 4, transcript variant X1
+LOC106883579_intron ATP-binding cassette sub-family C member 4, transcript variant X2
+LOC106883579_intron ATP-binding cassette sub-family C member 4, transcript variant X3
+LOC106883597_intron sorting nexin-16, transcript variant X1
+LOC106883597_intron sorting nexin-16, transcript variant X2
+LOC106883597_intron sorting nexin-16, transcript variant X3
+LOC106883597_intron sorting nexin-16, transcript variant X4
+LOC106883613_intron mediator of RNA polymerase II transcription subunit 20
+LOC106883614_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X1
+LOC106883614_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X2
+LOC106883614_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X3
+LOC106883614_intron sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X4
+LOC106883615_intron small nuclear ribonucleoprotein F
+LOC106883738_intron pre-mRNA-processing factor 39, transcript variant X1
+LOC106883738_intron pre-mRNA-processing factor 39, transcript variant X2
+LOC106883739_intron protein unc-93 homolog A
+LOC106883875_intron A disintegrin and metalloproteinase with thrombospondin motifs 9
+LOC106883876_intron glycerate kinase
+LOC106883882_intron zinc finger protein 665, transcript variant X1
+LOC106883882_intron zinc finger protein 665, transcript variant X2
+LOC106883882_intron zinc finger protein 665, transcript variant X3
+LOC106883882_intron zinc finger protein 665, transcript variant X4
+LOC106883884_intron protein phosphatase 1H, transcript variant X1
+LOC106883884_intron protein phosphatase 1H, transcript variant X2
+LOC106883885_intron bromodomain-containing protein 1
+LOC106883886_intron tubulin alpha-8 chain
+LOC106884017_intron uncharacterized LOC106884017
+LOC106884018_intron uncharacterized LOC106884018
+LOC106884163_intron sperm-associated antigen 16 protein, transcript variant X1
+LOC106884163_intron sperm-associated antigen 16 protein, transcript variant X2
+LOC106884171_intron ceramide kinase
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X1
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X10
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X2
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X3
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X4
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X5
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X6
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X7
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X8
+LOC106884182_intron glutamate receptor-interacting protein 2, transcript variant X9
+LOC106884247_intron uncharacterized LOC106884247
+LOC106884320_intron potassium channel subfamily K member 4, transcript variant X1
+LOC106884320_intron potassium channel subfamily K member 4, transcript variant X2
+LOC106884320_intron potassium channel subfamily K member 4, transcript variant X3
+LOC106884320_intron potassium channel subfamily K member 4, transcript variant X4
+LOC106884322_intron vacuole membrane protein 1, transcript variant X1
+LOC106884322_intron vacuole membrane protein 1, transcript variant X2
+LOC106884322_intron vacuole membrane protein 1, transcript variant X3
+LOC106884322_intron vacuole membrane protein 1, transcript variant X4
+LOC106884368_intron sodium-dependent dopamine transporter, transcript variant X1
+LOC106884368_intron sodium-dependent dopamine transporter, transcript variant X2
+LOC106884379_intron protein dopey-1, transcript variant X1
+LOC106884379_intron protein dopey-1, transcript variant X2
+LOC106884379_intron protein dopey-1, transcript variant X3
+LOC106884379_intron protein dopey-1, transcript variant X4
+LOC106884379_intron protein dopey-1, transcript variant X5
+LOC106884399_intron mitochondrial import inner membrane translocase subunit Tim13-B
+LOC106884401_intron N(G),N(G)-dimethylarginine dimethylaminohydrolase 1
+LOC106884402_intron sterol regulatory element-binding protein cleavage-activating protein
+LOC106884405_intron uncharacterized LOC106884405
+LOC106884406_intron integrin beta-2
+LOC106884407_intron integrin beta-like protein 1
+LOC106884408_intron uncharacterized LOC106884408, transcript variant X1
+LOC106884408_intron uncharacterized LOC106884408, transcript variant X2
+LOC106884408_intron uncharacterized LOC106884408, transcript variant X3
+LOC106884408_intron uncharacterized LOC106884408, transcript variant X4
+LOC106884409_intron uncharacterized LOC106884409, transcript variant X1
+LOC106884409_intron uncharacterized LOC106884409, transcript variant X2
+LOC106884410_intron lipopolysaccharide-binding protein
+LOC106884411_intron WD repeat-containing protein 38
+LOC106884412_intron ubiquitin-conjugating enzyme E2 E1, transcript variant X1
+LOC106884412_intron ubiquitin-conjugating enzyme E2 E1, transcript variant X2
+LOC106884413_intron WD repeat-containing protein 19
+LOC106884414_intron vacuolar protein sorting-associated protein 52 homolog
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X1
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X2
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X3
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X4
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X5
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X6
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X7
+LOC106884416_intron mediator of RNA polymerase II transcription subunit 24, transcript variant X8
+LOC106884417_intron zinc finger protein 665
+LOC106884418_intron activating signal cointegrator 1 complex subunit 3, transcript variant X1
+LOC106884418_intron activating signal cointegrator 1 complex subunit 3, transcript variant X2
+LOC106884418_intron activating signal cointegrator 1 complex subunit 3, transcript variant X3
+LOC106884418_intron activating signal cointegrator 1 complex subunit 3, transcript variant X4
+LOC106884419_intron beta-1,4-galactosyltransferase galt-1, transcript variant X1
+LOC106884419_intron beta-1,4-galactosyltransferase galt-1, transcript variant X2
+LOC106884419_intron beta-1,4-galactosyltransferase galt-1, transcript variant X4
+LOC106884419_intron beta-1,4-galactosyltransferase galt-1, transcript variant X5
+LOC106884421_intron uncharacterized LOC106884421, transcript variant X2
+LOC106884421_intron uncharacterized LOC106884421, transcript variant X3
+LOC106884422_intron putative sodium-coupled neutral amino acid transporter 11
+LOC106884423_intron adenylosuccinate lyase, transcript variant X1
+LOC106884423_intron adenylosuccinate lyase, transcript variant X2
+LOC106884424_intron cyclin-dependent kinase 10, transcript variant X1
+LOC106884424_intron cyclin-dependent kinase 10, transcript variant X2
+LOC106884424_intron cyclin-dependent kinase 10, transcript variant X3
+LOC106884424_intron cyclin-dependent kinase 10, transcript variant X4
+LOC106884424_intron cyclin-dependent kinase 10, transcript variant X5
+LOC106884425_intron protein transport protein Sec24A, transcript variant X1
+LOC106884425_intron protein transport protein Sec24A, transcript variant X2
+LOC106884425_intron protein transport protein Sec24A, transcript variant X3
+LOC106884425_intron protein transport protein Sec24A, transcript variant X4
+LOC106884427_intron uncharacterized protein DDB_G0283357, transcript variant X1
+LOC106884427_intron uncharacterized protein DDB_G0283357, transcript variant X2
+LOC128246973_intron piggyBac transposable element-derived protein 3-like
+LOC128246979_intron uncharacterized LOC128246979, transcript variant X1
+LOC128246979_intron uncharacterized LOC128246979, transcript variant X2
+LOC128246979_intron uncharacterized LOC128246979, transcript variant X3
+LOC128247021_intron leucine-rich repeat and coiled-coil domain-containing protein 1-like, transcript variant X1
+LOC128247021_intron leucine-rich repeat and coiled-coil domain-containing protein 1-like, transcript variant X2
+LOC128247021_intron leucine-rich repeat and coiled-coil domain-containing protein 1-like, transcript variant X3
+LOC128247043_intron uncharacterized LOC128247043
+LOC128247067_intron uncharacterized LOC128247067
+LOC128247068_intron uncharacterized LOC128247068
+LOC128247070_intron uncharacterized LOC128247070
+LOC128247087_intron uncharacterized LOC128247087
+LOC128247283_intron uncharacterized LOC128247283
+LOC128247308_intron uncharacterized LOC128247308
+LOC128247326_intron uncharacterized LOC128247326, transcript variant X1
+LOC128247327_intron uncharacterized LOC128247327, transcript variant X1
+LOC128247327_intron uncharacterized LOC128247327, transcript variant X2
+LOC128247334_intron dipeptidase 1-like
+LOC128247340_intron uncharacterized LOC128247340
+LOC128247350_intron uncharacterized LOC128247350
+LOC128247354_intron uncharacterized LOC128247354, transcript variant X1
+LOC128247354_intron uncharacterized LOC128247354, transcript variant X2
+LOC128247358_intron uncharacterized LOC128247358
+LOC128247361_intron uncharacterized LOC128247361
+LOC128247531_intron uncharacterized LOC128247531
+LOC128247551_intron uncharacterized LOC128247551, transcript variant X1
+LOC128247551_intron uncharacterized LOC128247551, transcript variant X2
+LOC128247551_intron uncharacterized LOC128247551, transcript variant X3
+LOC128247561_intron uncharacterized LOC128247561
+LOC128247565_intron uncharacterized LOC128247565, transcript variant X2
+LOC128247568_intron uncharacterized LOC128247568, transcript variant X1
+LOC128247568_intron uncharacterized LOC128247568, transcript variant X2
+LOC128247576_intron uncharacterized LOC128247576
+LOC128247599_intron uncharacterized LOC128247599
+LOC128247617_intron acetylcholine receptor subunit alpha-type unc-38-like
+LOC128247619_intron uncharacterized LOC128247619
+LOC128247630_intron uncharacterized LOC128247630, transcript variant X1
+LOC128247630_intron uncharacterized LOC128247630, transcript variant X2
+LOC128247640_intron uncharacterized LOC128247640
+LOC128247641_intron putative uncharacterized protein DDB_G0285119, transcript variant X1
+LOC128247641_intron putative uncharacterized protein DDB_G0285119, transcript variant X2
+LOC128247651_intron uncharacterized LOC128247651
+LOC128247816_intron uncharacterized LOC128247816
+LOC128247892_intron uncharacterized LOC128247892
+LOC128247901_intron uncharacterized LOC128247901
+LOC128247915_intron uncharacterized LOC128247915
+LOC128247917_intron uncharacterized LOC128247917
+LOC128247932_intron carboxypeptidase B-like
+LOC128248066_intron uncharacterized LOC128248066
+LOC128248105_intron uncharacterized LOC128248105
+LOC128248156_intron uncharacterized LOC128248156
+LOC128248161_intron stress response protein NhaX-like
+LOC128248303_intron uncharacterized LOC128248303
+LOC128248326_intron histone-lysine N-methyltransferase SETMAR-like, transcript variant X1
+LOC128248326_intron histone-lysine N-methyltransferase SETMAR-like, transcript variant X2
+LOC128248326_intron histone-lysine N-methyltransferase SETMAR-like, transcript variant X3
+LOC128248326_intron histone-lysine N-methyltransferase SETMAR-like, transcript variant X4
+LOC128248329_intron heparan sulfate 2-O-sulfotransferase 1-like
+LOC128248351_intron chloride channel protein D-like, transcript variant X1
+LOC128248351_intron chloride channel protein D-like, transcript variant X2
+LOC128248351_intron chloride channel protein D-like, transcript variant X3
+LOC128248351_intron chloride channel protein D-like, transcript variant X4
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X1
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X10
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X11
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X12
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X13
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X14
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X15
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X16
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X17
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X18
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X19
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X2
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X20
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X21
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X22
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X23
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X24
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X25
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X26
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X27
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X28
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X29
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X3
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X30
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X31
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X32
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X33
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X34
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X35
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X36
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X37
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X38
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X4
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X5
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X6
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X7
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X8
+LOC128248352_intron retinitis pigmentosa 1-like 1 protein, transcript variant X9
+LOC128248397_intron uncharacterized LOC128248397
+LOC128248488_intron uncharacterized LOC128248488, transcript variant X1
+LOC128248488_intron uncharacterized LOC128248488, transcript variant X2
+LOC128248517_intron uncharacterized LOC128248517, transcript variant X1
+LOC128248517_intron uncharacterized LOC128248517, transcript variant X2
+LOC128248535_intron uncharacterized LOC128248535
+LOC128248549_intron uncharacterized LOC128248549
+LOC128248557_intron uncharacterized LOC128248557
+LOC128248558_intron uncharacterized LOC128248558, transcript variant X1
+LOC128248558_intron uncharacterized LOC128248558, transcript variant X2
+LOC128248577_intron uncharacterized LOC128248577, transcript variant X1
+LOC128248577_intron uncharacterized LOC128248577, transcript variant X2
+LOC128248577_intron uncharacterized LOC128248577, transcript variant X3
+LOC128248592_intron uncharacterized LOC128248592
+LOC128248594_intron uncharacterized LOC128248594
+LOC128248657_intron uncharacterized LOC128248657
+LOC128248660_intron uncharacterized LOC128248660
+LOC128248680_intron uncharacterized LOC128248680
+LOC128248681_intron uncharacterized LOC128248681
+LOC128248698_intron small integral membrane protein 14-like
+LOC128248722_intron uncharacterized LOC128248722
+LOC128248748_intron uncharacterized LOC128248748
+LOC128248755_intron uncharacterized LOC128248755
+LOC128248835_intron uncharacterized LOC128248835
+LOC128248871_intron uncharacterized LOC128248871
+LOC128248882_intron uncharacterized LOC128248882
+LOC128248885_intron uncharacterized LOC128248885, transcript variant X1
+LOC128248885_intron uncharacterized LOC128248885, transcript variant X2
+LOC128248888_intron uncharacterized LOC128248888, transcript variant X1
+LOC128248888_intron uncharacterized LOC128248888, transcript variant X2
+LOC128248888_intron uncharacterized LOC128248888, transcript variant X3
+LOC128248888_intron uncharacterized LOC128248888, transcript variant X4
+LOC128248897_intron uncharacterized LOC128248897, transcript variant X1
+LOC128248897_intron uncharacterized LOC128248897, transcript variant X2
+LOC128248897_intron uncharacterized LOC128248897, transcript variant X3
+LOC128248908_intron uncharacterized LOC128248908
+LOC128249042_intron uncharacterized LOC128249042
+LOC128249043_intron titin-like
+LOC128249049_intron uncharacterized LOC128249049
+LOC128249089_intron uncharacterized LOC128249089
+LOC128249183_intron uncharacterized LOC128249183
+LOC128249208_intron uncharacterized LOC128249208
+LOC128249273_intron uncharacterized LOC128249273
+LOC128249278_intron uncharacterized LOC128249278
+LOC128249279_intron uncharacterized LOC128249279, transcript variant X1
+LOC128249279_intron uncharacterized LOC128249279, transcript variant X2
+LOC128249279_intron uncharacterized LOC128249279, transcript variant X3
+LOC128249288_intron uncharacterized LOC128249288
+LOC128249289_intron uncharacterized LOC128249289, transcript variant X1
+LOC128249289_intron uncharacterized LOC128249289, transcript variant X2
+LOC128249290_intron uncharacterized LOC128249290
+LOC128249351_intron uncharacterized LOC128249351
+LOC128249365_intron uncharacterized LOC128249365
+LOC128249386_intron uncharacterized LOC128249386, transcript variant 
+LOC128249386_intron uncharacterized LOC128249386, transcript variant X1
+LOC128249386_intron uncharacterized LOC128249386, transcript variant X2
+LOC128249702_intron adhesive plaque matrix protein-like
+LOC128249754_intron beta-1,3-galactosyltransferase 1-like
+LOC128249774_intron uncharacterized LOC128249774
+LOC128249777_intron uncharacterized LOC128249777
+LOC128249783_intron interleukin 17-like protein
+LOC128249795_intron interleukin 17-like protein
+LOC128249802_intron interleukin 17-like protein
+LOC128249806_intron uncharacterized LOC128249806
+LOC128249807_intron uncharacterized LOC128249807
+LOC128249808_intron uncharacterized LOC128249808
+LOC128249814_intron uncharacterized LOC128249814
+LOC128249815_intron uncharacterized LOC128249815
+LOC128249819_intron uncharacterized LOC128249819
+LOC128249824_intron uncharacterized LOC128249824
+LOC128249833_intron uncharacterized LOC128249833
+LOC128249860_intron uncharacterized LOC128249860
+LOC128249880_intron uncharacterized LOC128249880
+LOC128249881_intron uncharacterized LOC128249881
+LOC128249885_intron uncharacterized LOC128249885
+LOC128249889_intron uncharacterized LOC128249889, transcript variant X1
+LOC128249889_intron uncharacterized LOC128249889, transcript variant X2
+LOC128249902_intron uncharacterized LOC128249902
+LOC128249917_intron uncharacterized LOC128249917, transcript variant X1
+LOC128249917_intron uncharacterized LOC128249917, transcript variant X2
+LOC128249926_intron uncharacterized LOC128249926, transcript variant X1
+LOC128249926_intron uncharacterized LOC128249926, transcript variant X2
+LOC128249934_intron uncharacterized LOC128249934
+LOC128249935_intron uncharacterized LOC128249935
+LOC128249948_intron uncharacterized LOC128249948
+LOC128249949_intron uncharacterized LOC128249949
+LOC128249957_intron uncharacterized LOC128249957
+LOC128249959_intron uncharacterized LOC128249959
+LOC128250027_intron interleukin 17-like protein
+LOC128250032_intron interleukin 17-like protein
+LOC128250466_intron uncharacterized LOC128250466
+LOC128250478_intron uncharacterized protein K02A2.6-like
+LOC128250479_intron uncharacterized LOC128250479, transcript variant X1
+LOC128250479_intron uncharacterized LOC128250479, transcript variant X2
+LOC128250479_intron uncharacterized LOC128250479, transcript variant X3
+LOC128250886_intron uncharacterized LOC128250886
+LOC128251152_intron uncharacterized LOC128251152
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X1
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X2
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X3
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X4
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X5
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X6
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X7
+LOC128251597_intron uncharacterized LOC128251597, transcript variant X8

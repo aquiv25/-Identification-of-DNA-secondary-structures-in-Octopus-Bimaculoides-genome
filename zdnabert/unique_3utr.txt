@@ -1,0 +1,706 @@
+LOC106867191 programmed cell death protein 2-like, transcript variant X2
+LOC106867206 uncharacterized LOC106867206, transcript variant X1
+LOC106867206 uncharacterized LOC106867206, transcript variant X2
+LOC106867224 zinc finger protein 271
+LOC106867233 PAS domain-containing protein cky-1
+LOC106867264 uncharacterized LOC106867264, transcript variant X1
+LOC106867264 uncharacterized LOC106867264, transcript variant X5
+LOC106867292 aryl hydrocarbon receptor
+LOC106867341 rho GTPase-activating protein 39, transcript variant X8
+LOC106867429 popeye domain-containing protein 3, transcript variant X1
+LOC106867429 popeye domain-containing protein 3, transcript variant X2
+LOC106867429 popeye domain-containing protein 3, transcript variant X3
+LOC106867448 uncharacterized LOC106867448
+LOC106867500 semaphorin-5A, transcript variant X1
+LOC106867500 semaphorin-5A, transcript variant X2
+LOC106867523 transport and Golgi organization 2 homolog
+LOC106867548 transcriptional regulator ATRX, transcript variant X1
+LOC106867548 transcriptional regulator ATRX, transcript variant X2
+LOC106867580 probable serine/threonine-protein kinase nek3, transcript variant X2
+LOC106867580 probable serine/threonine-protein kinase nek3, transcript variant X6
+LOC106867597 BTB/POZ domain-containing protein KCTD21-like, transcript variant X1
+LOC106867597 BTB/POZ domain-containing protein KCTD21-like, transcript variant X2
+LOC106867612 ATP-binding cassette sub-family C member 3
+LOC106867653 uncharacterized LOC106867653, transcript variant X1
+LOC106867653 uncharacterized LOC106867653, transcript variant X2
+LOC106867653 uncharacterized LOC106867653, transcript variant X3
+LOC106867653 uncharacterized LOC106867653, transcript variant X4
+LOC106867662 TBC1 domain family member 16, transcript variant X2
+LOC106867727 zinc finger protein 91
+LOC106867800 (Lyso)-N-acylphosphatidylethanolamine lipase, transcript variant X3
+LOC106867800 (Lyso)-N-acylphosphatidylethanolamine lipase, transcript variant X4
+LOC106867827 zinc finger protein OZF, transcript variant X3
+LOC106867977 zinc finger protein 879
+LOC106867981 zinc finger protein 721
+LOC106868077 pituitary homeobox x, transcript variant X3
+LOC106868310 protein PFC0760c, transcript variant X1
+LOC106868310 protein PFC0760c, transcript variant X2
+LOC106868335 uncharacterized LOC106868335, transcript variant X1
+LOC106868339 uncharacterized LOC106868339, transcript variant X2
+LOC106868377 uncharacterized LOC106868377, transcript variant X1
+LOC106868400 von Hippel-Lindau disease tumor suppressor
+LOC106868402 beta-1,3-galactosyltransferase 1, transcript variant X1
+LOC106868402 beta-1,3-galactosyltransferase 1, transcript variant X2
+LOC106868402 beta-1,3-galactosyltransferase 1, transcript variant X3
+LOC106868402 beta-1,3-galactosyltransferase 1, transcript variant X4
+LOC106868412 uncharacterized LOC106868412, transcript variant X5
+LOC106868457 hydroxyacyl-coenzyme A dehydrogenase, mitochondrial
+LOC106868518 zinc finger protein 271, transcript variant X1
+LOC106868518 zinc finger protein 271, transcript variant X3
+LOC106868518 zinc finger protein 271, transcript variant X5
+LOC106868608 potassium voltage-gated channel protein Shaw, transcript variant X2
+LOC106868639 translation initiation factor eIF-2B subunit beta, transcript variant X1
+LOC106868692 uncharacterized LOC106868692, transcript variant X1
+LOC106868694 glutamyl-tRNA(Gln) amidotransferase subunit C, mitochondrial
+LOC106868713 uncharacterized LOC106868713
+LOC106868717 plexin-A1, transcript variant X1
+LOC106868717 plexin-A1, transcript variant X4
+LOC106868722 GATA zinc finger domain-containing protein 14, transcript variant X2
+LOC106868738 caspase-3, transcript variant X1
+LOC106868738 caspase-3, transcript variant X2
+LOC106868749 uncharacterized transporter slc-17.2, transcript variant X3
+LOC106868819 zinc finger protein 493
+LOC106868833 anaphase-promoting complex subunit 10, transcript variant X2
+LOC106868858 zinc finger protein 271
+LOC106868885 uncharacterized LOC106868885, transcript variant X5
+LOC106868934 protocadherin beta-15, transcript variant X2
+LOC106869010 E3 ubiquitin-protein ligase RNF144B, transcript variant X4
+LOC106869010 E3 ubiquitin-protein ligase RNF144B, transcript variant X7
+LOC106869026 transmembrane protein 272, transcript variant X1
+LOC106869026 transmembrane protein 272, transcript variant X4
+LOC106869064 serine-rich adhesin for platelets, transcript variant X1
+LOC106869064 serine-rich adhesin for platelets, transcript variant X2
+LOC106869130 uncharacterized LOC106869130
+LOC106869208 exocyst complex component 2, transcript variant X1
+LOC106869208 exocyst complex component 2, transcript variant X2
+LOC106869260 sex peptide receptor, transcript variant X1
+LOC106869260 sex peptide receptor, transcript variant X2
+LOC106869260 sex peptide receptor, transcript variant X4
+LOC106869289 uncharacterized LOC106869289
+LOC106869384 protocadherin-17, transcript variant X1
+LOC106869417 transmembrane protein 68, transcript variant X2
+LOC106869442 metalloreductase STEAP2, transcript variant X1
+LOC106869512 DNA fragmentation factor subunit beta, transcript variant X3
+LOC106869538 tyrosine-protein phosphatase non-receptor type 4, transcript variant X6
+LOC106869561 ultra-long-chain fatty acid omega-hydroxylase, transcript variant X1
+LOC106869561 ultra-long-chain fatty acid omega-hydroxylase, transcript variant X2
+LOC106869579 mucin-3A, transcript variant X3
+LOC106869641 gonadotropin-releasing hormone II receptor, transcript variant X1
+LOC106869641 gonadotropin-releasing hormone II receptor, transcript variant X2
+LOC106869641 gonadotropin-releasing hormone II receptor, transcript variant X5
+LOC106869641 gonadotropin-releasing hormone II receptor, transcript variant X6
+LOC106869641 gonadotropin-releasing hormone II receptor, transcript variant X7
+LOC106869641 gonadotropin-releasing hormone II receptor, transcript variant X8
+LOC106869681 alpha-2Da adrenergic receptor, transcript variant X1
+LOC106869681 alpha-2Da adrenergic receptor, transcript variant X2
+LOC106869683 G-protein coupled receptor 22, transcript variant X2
+LOC106869802 uncharacterized LOC106869802, transcript variant X1
+LOC106869802 uncharacterized LOC106869802, transcript variant X2
+LOC106869802 uncharacterized LOC106869802, transcript variant X3
+LOC106869802 uncharacterized LOC106869802, transcript variant X4
+LOC106869835 serine/threonine-protein kinase tousled-like 2, transcript variant X14
+LOC106869835 serine/threonine-protein kinase tousled-like 2, transcript variant X3
+LOC106869835 serine/threonine-protein kinase tousled-like 2, transcript variant X7
+LOC106869835 serine/threonine-protein kinase tousled-like 2, transcript variant X9
+LOC106869843 equilibrative nucleoside transporter 4, transcript variant X4
+LOC106869904 E3 ubiquitin-protein ligase RNF12-B, transcript variant X2
+LOC106869904 E3 ubiquitin-protein ligase RNF12-B, transcript variant X4
+LOC106869914 protogenin A, transcript variant X1
+LOC106869914 protogenin A, transcript variant X2
+LOC106869914 protogenin A, transcript variant X3
+LOC106869914 protogenin A, transcript variant X4
+LOC106869914 protogenin A, transcript variant X5
+LOC106869914 protogenin A, transcript variant X6
+LOC106869927 tripartite motif-containing protein 2, transcript variant X9
+LOC106869943 QRFP-like peptide receptor, transcript variant X1
+LOC106869943 QRFP-like peptide receptor, transcript variant X3
+LOC106869955 formin-2, transcript variant X2
+LOC106870051 zinc finger protein OZF, transcript variant X1
+LOC106870052 zinc finger protein 721
+LOC106870063 zinc finger protein ZFP2, transcript variant X1
+LOC106870063 zinc finger protein ZFP2, transcript variant X4
+LOC106870063 zinc finger protein ZFP2, transcript variant X7
+LOC106870063 zinc finger protein ZFP2, transcript variant X8
+LOC106870063 zinc finger protein ZFP2, transcript variant X9
+LOC106870069 zinc finger protein 658B, transcript variant X1
+LOC106870069 zinc finger protein 658B, transcript variant X2
+LOC106870078 zinc finger protein 431, transcript variant X1
+LOC106870124 spermidine synthase
+LOC106870146 uncharacterized LOC106870146, transcript variant X1
+LOC106870183 uncharacterized LOC106870183, transcript variant X1
+LOC106870185 glycosylphosphatidylinositol anchor attachment 1 protein, transcript variant X4
+LOC106870248 zinc finger protein 474, transcript variant X1
+LOC106870248 zinc finger protein 474, transcript variant X3
+LOC106870248 zinc finger protein 474, transcript variant X4
+LOC106870248 zinc finger protein 474, transcript variant X5
+LOC106870248 zinc finger protein 474, transcript variant X6
+LOC106870248 zinc finger protein 474, transcript variant X7
+LOC106870248 zinc finger protein 474, transcript variant X8
+LOC106870314 HAUS augmin-like complex subunit 5
+LOC106870325 protein Dr1, transcript variant X1
+LOC106870514 RNA-binding motif, single-stranded-interacting protein 2, transcript variant X2
+LOC106870514 RNA-binding motif, single-stranded-interacting protein 2, transcript variant X3
+LOC106870531 BTB/POZ domain-containing protein KCTD7
+LOC106870667 uncharacterized LOC106870667
+LOC106870672 beta-1,3-galactosyltransferase 5, transcript variant X1
+LOC106870672 beta-1,3-galactosyltransferase 5, transcript variant X5
+LOC106870691 natural resistance-associated macrophage protein 2, transcript variant X3
+LOC106870722 zinc finger protein GLIS3
+LOC106870767 putative mediator of RNA polymerase II transcription subunit 7, transcript variant X1
+LOC106870767 putative mediator of RNA polymerase II transcription subunit 7, transcript variant X3
+LOC106870767 putative mediator of RNA polymerase II transcription subunit 7, transcript variant X4
+LOC106870767 putative mediator of RNA polymerase II transcription subunit 7, transcript variant X5
+LOC106870821 CUE domain-containing protein 2-B
+LOC106870871 zinc finger protein 271
+LOC106870901 L-proline trans-4-hydroxylase
+LOC106870912 orexin receptor type 2
+LOC106870917 neuropeptide Y receptor type 2, transcript variant X1
+LOC106870969 diacylglycerol kinase epsilon, transcript variant X3
+LOC106871002 uncharacterized LOC106871002, transcript variant X2
+LOC106871039 cytochrome c
+LOC106871044 cytochrome c, transcript variant X2
+LOC106871073 uncharacterized LOC106871073, transcript variant X3
+LOC106871160 uncharacterized LOC106871160, transcript variant X6
+LOC106871160 uncharacterized LOC106871160, transcript variant X7
+LOC106871196 uncharacterized LOC106871196, transcript variant X2
+LOC106871210 putative uncharacterized protein DDB_G0277255
+LOC106871219 cysteine/serine-rich nuclear protein 3, transcript variant X1
+LOC106871219 cysteine/serine-rich nuclear protein 3, transcript variant X2
+LOC106871223 protein LZIC
+LOC106871290 myogenesis-regulating glycosidase, transcript variant X12
+LOC106871290 myogenesis-regulating glycosidase, transcript variant X7
+LOC106871338 uncharacterized LOC106871338, transcript variant X5
+LOC106871392 uncharacterized LOC106871392
+LOC106871442 elongation of very long chain fatty acids protein AAEL008004, transcript variant X2
+LOC106871442 elongation of very long chain fatty acids protein AAEL008004, transcript variant X3
+LOC106871450 CDC42 small effector protein 2
+LOC106871466 putative zinc finger protein 702, transcript variant X2
+LOC106871624 myb-like protein A, transcript variant X1
+LOC106871624 myb-like protein A, transcript variant X13
+LOC106871624 myb-like protein A, transcript variant X14
+LOC106871624 myb-like protein A, transcript variant X15
+LOC106871624 myb-like protein A, transcript variant X4
+LOC106871625 mucin-5AC, transcript variant X1
+LOC106871625 mucin-5AC, transcript variant X2
+LOC106871701 G-protein coupled receptor dmsr-1, transcript variant X1
+LOC106871701 G-protein coupled receptor dmsr-1, transcript variant X2
+LOC106871747 uncharacterized LOC106871747, transcript variant X2
+LOC106871760 protocadherin beta-12, transcript variant X3
+LOC106871785 zinc finger protein 208
+LOC106871794 zinc finger protein 239-like, transcript variant X1
+LOC106871794 zinc finger protein 239-like, transcript variant X2
+LOC106871850 uncharacterized LOC106871850
+LOC106872024 mucin-17, transcript variant X1
+LOC106872024 mucin-17, transcript variant X6
+LOC106872024 mucin-17, transcript variant X7
+LOC106872024 mucin-17, transcript variant X8
+LOC106872024 mucin-17, transcript variant X9
+LOC106872068 aromatic-L-amino-acid decarboxylase
+LOC106872108 cell division control protein 42 homolog
+LOC106872171 uncharacterized LOC106872171, transcript variant X1
+LOC106872171 uncharacterized LOC106872171, transcript variant X4
+LOC106872195 gonadotropin-releasing hormone receptor, transcript variant X1
+LOC106872195 gonadotropin-releasing hormone receptor, transcript variant X2
+LOC106872276 probable serine/threonine-protein kinase ifkA, transcript variant X1
+LOC106872276 probable serine/threonine-protein kinase ifkA, transcript variant X2
+LOC106872363 serine-rich adhesin for platelets, transcript variant X2
+LOC106872385 protocadherin beta-15, transcript variant X1
+LOC106872387 putative protocadherin beta-18
+LOC106872388 protocadherin-18, transcript variant X1
+LOC106872390 putative protocadherin beta-18, transcript variant X1
+LOC106872390 putative protocadherin beta-18, transcript variant X2
+LOC106872390 putative protocadherin beta-18, transcript variant X3
+LOC106872441 zinc finger protein 721
+LOC106872513 golgin subfamily A member 4
+LOC106872528 CCHC-type zinc finger nucleic acid binding protein, transcript variant X1
+LOC106872528 CCHC-type zinc finger nucleic acid binding protein, transcript variant X2
+LOC106872597 adenylate kinase, transcript variant X2
+LOC106872617 protocadherin beta-15, transcript variant X1
+LOC106872617 protocadherin beta-15, transcript variant X3
+LOC106872617 protocadherin beta-15, transcript variant X4
+LOC106872617 protocadherin beta-15, transcript variant X6
+LOC106872700 arrestin domain-containing protein 4
+LOC106872766 uncharacterized LOC106872766
+LOC106872828 zinc finger protein 665, transcript variant X1
+LOC106872844 synaptotagmin-12, transcript variant X1
+LOC106872895 protocadherin beta-15, transcript variant X1
+LOC106872895 protocadherin beta-15, transcript variant X2
+LOC106872895 protocadherin beta-15, transcript variant X4
+LOC106872895 protocadherin beta-15, transcript variant X6
+LOC106872895 protocadherin beta-15, transcript variant X7
+LOC106872895 protocadherin beta-15, transcript variant X8
+LOC106872898 zinc finger protein 883
+LOC106872918 probable aminopeptidase NPEPL1, transcript variant X3
+LOC106872930 arylsulfatase B
+LOC106872992 E3 ubiquitin-protein ligase MIB2
+LOC106873044 PDZ domain-containing protein 8
+LOC106873054 serine/arginine-rich splicing factor 7, transcript variant X1
+LOC106873054 serine/arginine-rich splicing factor 7, transcript variant X3
+LOC106873072 zinc finger protein 91
+LOC106873090 polyunsaturated fatty acid 5-lipoxygenase
+LOC106873196 dual specificity tyrosine-phosphorylation-regulated kinase 1A
+LOC106873243 putative protocadherin beta-18, transcript variant X7
+LOC106873244 protocadherin gamma-A11, transcript variant X1
+LOC106873244 protocadherin gamma-A11, transcript variant X3
+LOC106873244 protocadherin gamma-A11, transcript variant X4
+LOC106873259 zinc finger protein ZFP2, transcript variant X2
+LOC106873290 calcium-responsive transcription factor, transcript variant X1
+LOC106873489 fibroblast growth factor receptor 3-like, transcript variant X1
+LOC106873514 carbohydrate sulfotransferase 15, transcript variant X2
+LOC106873581 probable G-protein coupled receptor No18, transcript variant X1
+LOC106873581 probable G-protein coupled receptor No18, transcript variant X2
+LOC106873603 protein phosphatase 1B, transcript variant X1
+LOC106873603 protein phosphatase 1B, transcript variant X3
+LOC106873603 protein phosphatase 1B, transcript variant X4
+LOC106873603 protein phosphatase 1B, transcript variant X5
+LOC106873603 protein phosphatase 1B, transcript variant X6
+LOC106873619 pseudouridylate synthase 7 homolog, transcript variant X2
+LOC106873629 jmjC domain-containing protein 8, transcript variant X6
+LOC106873635 zinc finger protein 239, transcript variant X1
+LOC106873642 ras-related protein Rap-2a, transcript variant X1
+LOC106873642 ras-related protein Rap-2a, transcript variant X2
+LOC106873642 ras-related protein Rap-2a, transcript variant X3
+LOC106873642 ras-related protein Rap-2a, transcript variant X4
+LOC106873642 ras-related protein Rap-2a, transcript variant X6
+LOC106873642 ras-related protein Rap-2a, transcript variant X9
+LOC106873676 tubulin polyglutamylase TTLL5, transcript variant X1
+LOC106873676 tubulin polyglutamylase TTLL5, transcript variant X2
+LOC106873728 protein phosphatase 1 regulatory subunit 42, transcript variant X1
+LOC106873728 protein phosphatase 1 regulatory subunit 42, transcript variant X2
+LOC106873791 leucine-rich melanocyte differentiation-associated protein
+LOC106873840 zinc finger protein 665
+LOC106873851 adhesion G-protein coupled receptor G2, transcript variant X1
+LOC106873856 ubiquitin-like protein 5
+LOC106873924 mitochondrial ribonuclease P catalytic subunit, transcript variant X1
+LOC106873924 mitochondrial ribonuclease P catalytic subunit, transcript variant X2
+LOC106873949 protocadherin beta-15, transcript variant X1
+LOC106873951 protocadherin 18, transcript variant X1
+LOC106873951 protocadherin 18, transcript variant X2
+LOC106873951 protocadherin 18, transcript variant X4
+LOC106873976 meiotic recombination protein REC114, transcript variant X3
+LOC106874051 gastrula zinc finger protein XlCGF49.1, transcript variant X1
+LOC106874051 gastrula zinc finger protein XlCGF49.1, transcript variant X2
+LOC106874178 uncharacterized LOC106874178, transcript variant X1
+LOC106874266 pyrokinin-1 receptor
+LOC106874296 protein asteroid homolog 1, transcript variant X1
+LOC106874334 major facilitator superfamily domain-containing protein 12, transcript variant X2
+LOC106874363 uncharacterized LOC106874363, transcript variant X4
+LOC106874382 zinc finger protein 236, transcript variant X2
+LOC106874382 zinc finger protein 236, transcript variant X4
+LOC106874410 AT-rich interactive domain-containing protein 4B
+LOC106874430 uncharacterized LOC106874430, transcript variant X1
+LOC106874430 uncharacterized LOC106874430, transcript variant X2
+LOC106874430 uncharacterized LOC106874430, transcript variant X3
+LOC106874495 uncharacterized LOC106874495, transcript variant X2
+LOC106874495 uncharacterized LOC106874495, transcript variant X3
+LOC106874495 uncharacterized LOC106874495, transcript variant X7
+LOC106874495 uncharacterized LOC106874495, transcript variant X8
+LOC106874572 dynactin subunit 6
+LOC106874579 single-stranded DNA-binding protein 3, transcript variant X2
+LOC106874579 single-stranded DNA-binding protein 3, transcript variant X3
+LOC106874579 single-stranded DNA-binding protein 3, transcript variant X4
+LOC106874585 uncharacterized LOC106874585, transcript variant X1
+LOC106874585 uncharacterized LOC106874585, transcript variant X2
+LOC106874605 zinc finger protein 62
+LOC106874643 dual specificity protein kinase splB
+LOC106874729 uncharacterized LOC106874729, transcript variant X6
+LOC106874775 zinc finger protein OZF, transcript variant X2
+LOC106874788 centrosomal protein of 164 kDa, transcript variant X2
+LOC106874788 centrosomal protein of 164 kDa, transcript variant X3
+LOC106874968 mucin-5AC
+LOC106875029 lysine-specific demethylase 3A, transcript variant X3
+LOC106875084 protocadherin gamma-A4, transcript variant X1
+LOC106875084 protocadherin gamma-A4, transcript variant X2
+LOC106875084 protocadherin gamma-A4, transcript variant X3
+LOC106875113 uncharacterized LOC106875113, transcript variant X1
+LOC106875113 uncharacterized LOC106875113, transcript variant X2
+LOC106875150 FERM domain-containing protein 4A, transcript variant X7
+LOC106875299 N-chimaerin, transcript variant X2
+LOC106875300 probable serine/threonine-protein kinase tsuA
+LOC106875384 uncharacterized LOC106875384, transcript variant X1
+LOC106875384 uncharacterized LOC106875384, transcript variant X4
+LOC106875384 uncharacterized LOC106875384, transcript variant X5
+LOC106875384 uncharacterized LOC106875384, transcript variant X6
+LOC106875384 uncharacterized LOC106875384, transcript variant X7
+LOC106875420 protein Mo25, transcript variant X1
+LOC106875473 tubby-related protein 4, transcript variant X4
+LOC106875518 uncharacterized protein RP688, transcript variant X1
+LOC106875518 uncharacterized protein RP688, transcript variant X2
+LOC106875518 uncharacterized protein RP688, transcript variant X3
+LOC106875518 uncharacterized protein RP688, transcript variant X4
+LOC106875546 DNA-binding protein Ikaros, transcript variant X1
+LOC106875546 DNA-binding protein Ikaros, transcript variant X2
+LOC106875546 DNA-binding protein Ikaros, transcript variant X3
+LOC106875546 DNA-binding protein Ikaros, transcript variant X4
+LOC106875820 heat shock protein beta-1, transcript variant X1
+LOC106875820 heat shock protein beta-1, transcript variant X2
+LOC106875820 heat shock protein beta-1, transcript variant X3
+LOC106875822 protocadherin gamma-A9, transcript variant X1
+LOC106875828 protein sprouty homolog 3, transcript variant X3
+LOC106875847 coiled-coil domain-containing protein AGAP005037, transcript variant X5
+LOC106875852 scm-like with four MBT domains protein 1, transcript variant X1
+LOC106875852 scm-like with four MBT domains protein 1, transcript variant X3
+LOC106875852 scm-like with four MBT domains protein 1, transcript variant X4
+LOC106875856 protocadherin-18, transcript variant X1
+LOC106875856 protocadherin-18, transcript variant X2
+LOC106875856 protocadherin-18, transcript variant X3
+LOC106875876 tigger transposable element-derived protein 1-like, transcript variant X3
+LOC106875876 tigger transposable element-derived protein 1-like, transcript variant X5
+LOC106875923 dopamine beta-hydroxylase
+LOC106875983 uncharacterized LOC106875983, transcript variant X1
+LOC106875983 uncharacterized LOC106875983, transcript variant X2
+LOC106875983 uncharacterized LOC106875983, transcript variant X3
+LOC106875983 uncharacterized LOC106875983, transcript variant X4
+LOC106876084 terminal uridylyltransferase 4-like
+LOC106876127 transmembrane protein 230, transcript variant X1
+LOC106876127 transmembrane protein 230, transcript variant X2
+LOC106876127 transmembrane protein 230, transcript variant X3
+LOC106876127 transmembrane protein 230, transcript variant X4
+LOC106876178 DNA repair protein RAD50, transcript variant X2
+LOC106876178 DNA repair protein RAD50, transcript variant X5
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X1
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X10
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X2
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X3
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X6
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X7
+LOC106876180 TWiK family of potassium channels protein 18, transcript variant X8
+LOC106876217 uncharacterized LOC106876217, transcript variant X1
+LOC106876217 uncharacterized LOC106876217, transcript variant X2
+LOC106876217 uncharacterized LOC106876217, transcript variant X3
+LOC106876217 uncharacterized LOC106876217, transcript variant X4
+LOC106876377 PR domain zinc finger protein 10
+LOC106876384 orexin/Hypocretin receptor type 1
+LOC106876386 serine/arginine-rich splicing factor 6, transcript variant X1
+LOC106876386 serine/arginine-rich splicing factor 6, transcript variant X2
+LOC106876386 serine/arginine-rich splicing factor 6, transcript variant X3
+LOC106876422 uncharacterized LOC106876422
+LOC106876423 putative acyl-CoA synthetase YngI
+LOC106876519 E3 ubiquitin-protein ligase MIB2, transcript variant X1
+LOC106876579 zinc finger protein Xfin, transcript variant X2
+LOC106876630 growth hormone secretagogue receptor type 1
+LOC106876649 coiled-coil domain-containing protein 60, transcript variant X1
+LOC106876649 coiled-coil domain-containing protein 60, transcript variant X2
+LOC106876670 uncharacterized LOC106876670
+LOC106876692 dnaJ homolog subfamily C member 22, transcript variant X1
+LOC106876692 dnaJ homolog subfamily C member 22, transcript variant X2
+LOC106876733 solute carrier family 12 member 3, transcript variant X1
+LOC106876773 sorting nexin-27, transcript variant X1
+LOC106876773 sorting nexin-27, transcript variant X2
+LOC106876779 uncharacterized LOC106876779, transcript variant X1
+LOC106876779 uncharacterized LOC106876779, transcript variant X2
+LOC106876910 formin-E, transcript variant X1
+LOC106877033 leucine-rich repeat neuronal protein 2, transcript variant X2
+LOC106877128 E3 ubiquitin-protein ligase RNF4, transcript variant X1
+LOC106877129 LYR motif-containing protein 1, transcript variant X2
+LOC106877129 LYR motif-containing protein 1, transcript variant X4
+LOC106877210 DNA-binding protein P3A2, transcript variant X2
+LOC106877210 DNA-binding protein P3A2, transcript variant X4
+LOC106877246 uncharacterized LOC106877246
+LOC106877249 vitamin K epoxide reductase complex subunit 1-like protein 1, transcript variant X1
+LOC106877249 vitamin K epoxide reductase complex subunit 1-like protein 1, transcript variant X2
+LOC106877276 tyrosine-protein phosphatase 10D, transcript variant X8
+LOC106877380 solute carrier family 28 member 3, transcript variant X2
+LOC106877392 uncharacterized LOC106877392
+LOC106877405 uncharacterized LOC106877405, transcript variant X1
+LOC106877405 uncharacterized LOC106877405, transcript variant X2
+LOC106877416 P2R1A-PPP2R2A-interacting phosphatase regulator 1
+LOC106877433 zinc finger protein 208
+LOC106877480 cadherin EGF LAG seven-pass G-type receptor 2, transcript variant X2
+LOC106877528 sialin
+LOC106877532 uncharacterized LOC106877532
+LOC106877543 uncharacterized LOC106877543, transcript variant X1
+LOC106877543 uncharacterized LOC106877543, transcript variant X2
+LOC106877595 protein ANKUB1, transcript variant X1
+LOC106877657 protein inturned, transcript variant X3
+LOC106877694 cytosolic Fe-S cluster assembly factor narfl, transcript variant X3
+LOC106877694 cytosolic Fe-S cluster assembly factor narfl, transcript variant X4
+LOC106877711 growth hormone secretagogue receptor type 1
+LOC106877715 uncharacterized LOC106877715, transcript variant X1
+LOC106877715 uncharacterized LOC106877715, transcript variant X5
+LOC106877775 SKI family transcriptional corepressor 1 homolog-B, transcript variant X4
+LOC106877785 multivesicular body subunit 12B, transcript variant X5
+LOC106877850 FMRFamide receptor, transcript variant X1
+LOC106877850 FMRFamide receptor, transcript variant X2
+LOC106877850 FMRFamide receptor, transcript variant X3
+LOC106877883 uncharacterized LOC106877883, transcript variant X1
+LOC106877883 uncharacterized LOC106877883, transcript variant X2
+LOC106878013 hexokinase-2, transcript variant X2
+LOC106878029 solute carrier family 66 member 2, transcript variant X1
+LOC106878029 solute carrier family 66 member 2, transcript variant X10
+LOC106878029 solute carrier family 66 member 2, transcript variant X3
+LOC106878029 solute carrier family 66 member 2, transcript variant X4
+LOC106878029 solute carrier family 66 member 2, transcript variant X5
+LOC106878029 solute carrier family 66 member 2, transcript variant X7
+LOC106878029 solute carrier family 66 member 2, transcript variant X8
+LOC106878029 solute carrier family 66 member 2, transcript variant X9
+LOC106878079 5-hydroxytryptamine receptor 2C, transcript variant X1
+LOC106878079 5-hydroxytryptamine receptor 2C, transcript variant X2
+LOC106878115 partner of bursicon-like
+LOC106878206 uncharacterized protein KIAA0825, transcript variant X2
+LOC106878225 putative protocadherin beta-18, transcript variant X1
+LOC106878318 SPRY domain-containing SOCS box protein 1, transcript variant X1
+LOC106878318 SPRY domain-containing SOCS box protein 1, transcript variant X2
+LOC106878326 zinc finger protein 62 homolog
+LOC106878343 zinc finger protein 239-like, transcript variant X1
+LOC106878344 zinc finger protein 135-like, transcript variant X1
+LOC106878344 zinc finger protein 135-like, transcript variant X2
+LOC106878344 zinc finger protein 135-like, transcript variant X4
+LOC106878344 zinc finger protein 135-like, transcript variant X5
+LOC106878545 small G protein signaling modulator 1, transcript variant X5
+LOC106878545 small G protein signaling modulator 1, transcript variant X6
+LOC106878581 protein C-ets-1, transcript variant X1
+LOC106878581 protein C-ets-1, transcript variant X2
+LOC106878581 protein C-ets-1, transcript variant X3
+LOC106878660 uncharacterized LOC106878660, transcript variant X3
+LOC106878662 prokineticin receptor 2
+LOC106878984 octopressin receptor, transcript variant X1
+LOC106878984 octopressin receptor, transcript variant X2
+LOC106879013 zinc finger protein 239-like, transcript variant X2
+LOC106879019 uncharacterized LOC106879019
+LOC106879040 neuromedin-U receptor 2, transcript variant X1
+LOC106879061 long-chain-fatty-acid--CoA ligase 4, transcript variant X1
+LOC106879061 long-chain-fatty-acid--CoA ligase 4, transcript variant X5
+LOC106879147 potassium voltage-gated channel subfamily H member 7, transcript variant X6
+LOC106879154 myb-like protein U, transcript variant X1
+LOC106879154 myb-like protein U, transcript variant X3
+LOC106879154 myb-like protein U, transcript variant X4
+LOC106879167 zinc finger protein 271, transcript variant X3
+LOC106879211 hepatocyte growth factor receptor, transcript variant X3
+LOC106879211 hepatocyte growth factor receptor, transcript variant X4
+LOC106879215 cytosolic purine 5'-nucleotidase, transcript variant X3
+LOC106879244 CYFIP-related Rac1 interactor B, transcript variant X1
+LOC106879244 CYFIP-related Rac1 interactor B, transcript variant X2
+LOC106879244 CYFIP-related Rac1 interactor B, transcript variant X3
+LOC106879325 kinesin-like protein KIF22, transcript variant X1
+LOC106879325 kinesin-like protein KIF22, transcript variant X2
+LOC106879393 protocadherin gamma-A4, transcript variant X1
+LOC106879393 protocadherin gamma-A4, transcript variant X4
+LOC106879393 protocadherin gamma-A4, transcript variant X5
+LOC106879393 protocadherin gamma-A4, transcript variant X6
+LOC106879393 protocadherin gamma-A4, transcript variant X7
+LOC106879393 protocadherin gamma-A4, transcript variant X8
+LOC106879397 protocadherin alpha-3, transcript variant X1
+LOC106879397 protocadherin alpha-3, transcript variant X4
+LOC106879452 myb-like protein U, transcript variant X1
+LOC106879466 uncharacterized LOC106879466, transcript variant X1
+LOC106879466 uncharacterized LOC106879466, transcript variant X10
+LOC106879466 uncharacterized LOC106879466, transcript variant X11
+LOC106879466 uncharacterized LOC106879466, transcript variant X12
+LOC106879466 uncharacterized LOC106879466, transcript variant X13
+LOC106879466 uncharacterized LOC106879466, transcript variant X14
+LOC106879466 uncharacterized LOC106879466, transcript variant X15
+LOC106879466 uncharacterized LOC106879466, transcript variant X2
+LOC106879466 uncharacterized LOC106879466, transcript variant X3
+LOC106879466 uncharacterized LOC106879466, transcript variant X4
+LOC106879466 uncharacterized LOC106879466, transcript variant X5
+LOC106879466 uncharacterized LOC106879466, transcript variant X6
+LOC106879466 uncharacterized LOC106879466, transcript variant X7
+LOC106879466 uncharacterized LOC106879466, transcript variant X8
+LOC106879466 uncharacterized LOC106879466, transcript variant X9
+LOC106879518 zinc finger protein 239
+LOC106879667 leucine-rich repeat neuronal protein 1, transcript variant X1
+LOC106879694 neuronal acetylcholine receptor subunit alpha-10, transcript variant X1
+LOC106879694 neuronal acetylcholine receptor subunit alpha-10, transcript variant X8
+LOC106879756 cytosolic carboxypeptidase 1
+LOC106879762 malignant fibrous histiocytoma-amplified sequence 1 homolog, transcript variant X1
+LOC106879762 malignant fibrous histiocytoma-amplified sequence 1 homolog, transcript variant X2
+LOC106879801 uncharacterized LOC106879801, transcript variant X2
+LOC106879838 uncharacterized LOC106879838
+LOC106879856 transmembrane protein 180, transcript variant X4
+LOC106879975 zinc finger protein 708-like, transcript variant X1
+LOC106879975 zinc finger protein 708-like, transcript variant X2
+LOC106879975 zinc finger protein 708-like, transcript variant X3
+LOC106880015 zinc finger protein 410, transcript variant X3
+LOC106880044 potassium voltage-gated channel subfamily A member 1, transcript variant X2
+LOC106880066 uncharacterized LOC106880066
+LOC106880090 UPF0692 protein C19orf54 homolog, transcript variant X2
+LOC106880181 delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial, transcript variant X3
+LOC106880181 delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial, transcript variant X4
+LOC106880312 uncharacterized protein C12orf29 homolog, transcript variant X1
+LOC106880312 uncharacterized protein C12orf29 homolog, transcript variant X2
+LOC106880315 polyglutamylase complex subunit TTLL1, transcript variant X1
+LOC106880315 polyglutamylase complex subunit TTLL1, transcript variant X3
+LOC106880315 polyglutamylase complex subunit TTLL1, transcript variant X4
+LOC106880479 sodium-coupled monocarboxylate transporter 1, transcript variant X1
+LOC106880479 sodium-coupled monocarboxylate transporter 1, transcript variant X2
+LOC106880479 sodium-coupled monocarboxylate transporter 1, transcript variant X4
+LOC106880485 homeobox protein Meis1, transcript variant X3
+LOC106880541 uncharacterized LOC106880541, transcript variant X3
+LOC106880552 uncharacterized LOC106880552, transcript variant X3
+LOC106880565 myosin regulatory light polypeptide 9
+LOC106880607 zinc transporter ZIP12
+LOC106880631 E3 ubiquitin-protein ligase SH3RF3, transcript variant X1
+LOC106880698 zinc finger protein 629, transcript variant X1
+LOC106880698 zinc finger protein 629, transcript variant X2
+LOC106880698 zinc finger protein 629, transcript variant X3
+LOC106880698 zinc finger protein 629, transcript variant X4
+LOC106880698 zinc finger protein 629, transcript variant X5
+LOC106880698 zinc finger protein 629, transcript variant X6
+LOC106880698 zinc finger protein 629, transcript variant X7
+LOC106880698 zinc finger protein 629, transcript variant X8
+LOC106880698 zinc finger protein 629, transcript variant X9
+LOC106880735 forkhead box protein J1-B, transcript variant X2
+LOC106880771 meiosis 1 arrest protein-like, transcript variant X1
+LOC106880808 cGMP-dependent protein kinase 1, transcript variant X2
+LOC106880980 zinc finger protein OZF, transcript variant X1
+LOC106880980 zinc finger protein OZF, transcript variant X2
+LOC106880991 zinc finger protein 91
+LOC106881050 G patch domain-containing protein 4, transcript variant X3
+LOC106881087 uncharacterized LOC106881087
+LOC106881110 uncharacterized LOC106881110, transcript variant X5
+LOC106881128 sentrin-specific protease 6, transcript variant X8
+LOC106881143 zinc finger protein rotund, transcript variant X12
+LOC106881143 zinc finger protein rotund, transcript variant X14
+LOC106881143 zinc finger protein rotund, transcript variant X16
+LOC106881147 mpv17-like protein 2, transcript variant X4
+LOC106881157 uncharacterized LOC106881157, transcript variant X3
+LOC106881196 uncharacterized LOC106881196, transcript variant X3
+LOC106881252 aquaporin-11
+LOC106881270 E3 ubiquitin-protein ligase RNF181
+LOC106881295 zinc finger protein 43
+LOC106881296 putative ankyrin repeat protein RF_0381
+LOC106881298 zinc finger protein 239
+LOC106881338 zinc finger protein 239-like, transcript variant X3
+LOC106881353 zinc finger protein 678
+LOC106881355 zinc finger protein 271, transcript variant X2
+LOC106881355 zinc finger protein 271, transcript variant X3
+LOC106881434 uncharacterized transporter slc-17.2, transcript variant X1
+LOC106881481 putative uncharacterized protein DDB_G0268364, transcript variant X2
+LOC106881501 zinc finger protein 260
+LOC106881559 cyclin-I, transcript variant X1
+LOC106881593 protocadherin beta-15, transcript variant X4
+LOC106881595 myoneurin, transcript variant X5
+LOC106881728 solute carrier organic anion transporter family member 2A1, transcript variant X1
+LOC106881728 solute carrier organic anion transporter family member 2A1, transcript variant X2
+LOC106881728 solute carrier organic anion transporter family member 2A1, transcript variant X4
+LOC106881736 G-protein coupled receptor 83, transcript variant X1
+LOC106881780 speckle-type POZ protein, transcript variant X1
+LOC106881800 uncharacterized LOC106881800, transcript variant X1
+LOC106881800 uncharacterized LOC106881800, transcript variant X2
+LOC106881898 frizzled-1
+LOC106881920 uncharacterized LOC106881920
+LOC106882066 tRNA (guanine(26)-N(2))-dimethyltransferase, transcript variant X1
+LOC106882066 tRNA (guanine(26)-N(2))-dimethyltransferase, transcript variant X2
+LOC106882124 uncharacterized LOC106882124
+LOC106882146 uncharacterized LOC106882146, transcript variant X1
+LOC106882146 uncharacterized LOC106882146, transcript variant X3
+LOC106882146 uncharacterized LOC106882146, transcript variant X4
+LOC106882146 uncharacterized LOC106882146, transcript variant X5
+LOC106882146 uncharacterized LOC106882146, transcript variant X7
+LOC106882280 solute carrier family 22 member 27, transcript variant X1
+LOC106882280 solute carrier family 22 member 27, transcript variant X2
+LOC106882305 DNA damage-regulated autophagy modulator protein 2, transcript variant X1
+LOC106882398 DNA polymerase theta
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X1
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X10
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X2
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X3
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X4
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X5
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X6
+LOC106882425 oxysterol-binding protein-related protein 6, transcript variant X9
+LOC106882458 beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 3, transcript variant X5
+LOC106882524 leucine zipper putative tumor suppressor 2 homolog, transcript variant X2
+LOC106882562 unconventional myosin-Ic, transcript variant X1
+LOC106882562 unconventional myosin-Ic, transcript variant X3
+LOC106882607 signal peptide peptidase-like 3
+LOC106882638 uncharacterized LOC106882638, transcript variant X2
+LOC106882638 uncharacterized LOC106882638, transcript variant X4
+LOC106882638 uncharacterized LOC106882638, transcript variant X6
+LOC106882686 vitamin D3 receptor, transcript variant X12
+LOC106882686 vitamin D3 receptor, transcript variant X7
+LOC106882703 eukaryotic translation initiation factor 4H
+LOC106882779 snRNA-activating protein complex subunit 1, transcript variant X1
+LOC106882779 snRNA-activating protein complex subunit 1, transcript variant X2
+LOC106882779 snRNA-activating protein complex subunit 1, transcript variant X3
+LOC106882779 snRNA-activating protein complex subunit 1, transcript variant X4
+LOC106882779 snRNA-activating protein complex subunit 1, transcript variant X5
+LOC106882833 interferon regulatory factor 2, transcript variant X7
+LOC106882868 sodium/hydrogen exchanger 2, transcript variant X1
+LOC106882868 sodium/hydrogen exchanger 2, transcript variant X2
+LOC106882868 sodium/hydrogen exchanger 2, transcript variant X6
+LOC106882875 transmembrane protein 104, transcript variant X4
+LOC106882899 uncharacterized LOC106882899, transcript variant X1
+LOC106882899 uncharacterized LOC106882899, transcript variant X4
+LOC106882899 uncharacterized LOC106882899, transcript variant X5
+LOC106882899 uncharacterized LOC106882899, transcript variant X6
+LOC106882909 agrin, transcript variant X1
+LOC106882916 regulator of G-protein signaling 12, transcript variant X1
+LOC106882916 regulator of G-protein signaling 12, transcript variant X8
+LOC106882948 zinc finger protein 420, transcript variant X2
+LOC106882960 protocadherin beta-6, transcript variant X1
+LOC106882960 protocadherin beta-6, transcript variant X2
+LOC106882960 protocadherin beta-6, transcript variant X3
+LOC106882974 uncharacterized LOC106882974, transcript variant X3
+LOC106883075 uncharacterized LOC106883075, transcript variant X1
+LOC106883377 ciliogenesis-associated TTC17-interacting protein, transcript variant X3
+LOC106883384 AP-1 complex subunit sigma-2, transcript variant X7
+LOC106883413 protocadherin gamma-A4
+LOC106883426 uncharacterized LOC106883426
+LOC106883444 4'-phosphopantetheine phosphatase
+LOC106883531 zinc finger protein 665, transcript variant X2
+LOC106883562 chromodomain Y-like protein 2, transcript variant X1
+LOC106883614 sodium-dependent neutral amino acid transporter B(0)AT3, transcript variant X4
+LOC106883652 ras-related protein Rab-1D, transcript variant X3
+LOC106883812 neuropeptide FF receptor 2, transcript variant X1
+LOC106883960 uncharacterized LOC106883960
+LOC106883983 D-3-phosphoglycerate dehydrogenase, transcript variant X1
+LOC106883983 D-3-phosphoglycerate dehydrogenase, transcript variant X2
+LOC106883999 uncharacterized LOC106883999, transcript variant X5
+LOC106884031 mRNA-decapping enzyme 1A, transcript variant X5
+LOC106884033 zinc finger protein 436, transcript variant X2
+LOC106884051 alanine--tRNA ligase, cytoplasmic
+LOC106884059 zinc finger protein 836, transcript variant X1
+LOC106884059 zinc finger protein 836, transcript variant X4
+LOC106884093 class E basic helix-loop-helix protein 22-like, transcript variant X1
+LOC106884093 class E basic helix-loop-helix protein 22-like, transcript variant X3
+LOC106884112 zinc finger protein 208
+LOC106884122 zinc finger protein 271, transcript variant X1
+LOC106884122 zinc finger protein 271, transcript variant X2
+LOC106884122 zinc finger protein 271, transcript variant X4
+LOC106884122 zinc finger protein 271, transcript variant X5
+LOC106884125 zinc finger protein 91-like
+LOC106884296 protein POLR1D, transcript variant X2
+LOC106884307 LIM/homeobox protein Lhx3
+LOC106884332 glycine receptor subunit alpha-2, transcript variant X1
+LOC106884421 uncharacterized LOC106884421, transcript variant X4
+LOC106884425 protein transport protein Sec24A, transcript variant X1
+LOC106884425 protein transport protein Sec24A, transcript variant X4
+LOC106884427 uncharacterized protein DDB_G0283357, transcript variant X1
+LOC106884460 obg-like ATPase 1, transcript variant X1
+LOC106884460 obg-like ATPase 1, transcript variant X2
+LOC106884500 Golgi-associated plant pathogenesis-related protein 1
+LOC106884503 transcription factor E2F8, transcript variant X1
+LOC128247071 uncharacterized LOC128247071
+LOC128247600 uncharacterized LOC128247600, transcript variant X1
+LOC128247635 zinc finger protein 271-like
+LOC128248340 zinc finger protein 239-like, transcript variant X1
+LOC128248340 zinc finger protein 239-like, transcript variant X2
+LOC128248588 zinc finger protein 665-like, transcript variant X1
+LOC128248589 zinc finger protein 253-like, transcript variant X3
+LOC128248721 centrosome and spindle pole-associated protein 1-like, transcript variant X2
+LOC128248758 voltage-dependent calcium channel gamma-5 subunit-like
+LOC128249191 neuropeptide FF receptor 1-like, transcript variant X1
+LOC128249305 zinc finger protein 271-like, transcript variant X1
+LOC128249671 carnosine synthase 1-like, transcript variant X2
+LOC128249868 uncharacterized LOC128249868, transcript variant X1
+LOC128250307 zinc finger protein 271-like, transcript variant X1
+LOC128250443 zinc finger protein 726-like, transcript variant X1
+LOC128250457 zinc finger protein 91-like
+LOC128250513 uncharacterized LOC128250513
+LOC128250615 neurabin-1-like, transcript variant X1
+LOC128250615 neurabin-1-like, transcript variant X2
+LOC128250615 neurabin-1-like, transcript variant X5
+LOC128250615 neurabin-1-like, transcript variant X6
+LOC128251005 zinc finger protein 271-like, transcript variant X2
+LOC128251040 zinc finger protein OZF-like
+LOC128251054 zinc finger protein 239-like, transcript variant X1
+LOC128251069 zinc finger protein 62 homolog
+LOC128251111 zinc finger protein 91-like
+LOC128251221 decorin-like
+LOC128251244 decorin-like, transcript variant X3
+LOC128251305 zinc finger protein 271-like, transcript variant X1
+LOC128251305 zinc finger protein 271-like, transcript variant X2
+LOC128251305 zinc finger protein 271-like, transcript variant X3
+LOC128251530 zinc finger protein 665-like
